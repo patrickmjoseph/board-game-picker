@@ -33,6 +33,7 @@
     color: var(--ink);
     font-family: 'Karla', sans-serif;
     min-height: 100vh;
+    overflow-x: hidden;
   }
 
   a { color: inherit; }
@@ -260,7 +261,7 @@
     top: 0;
     right: 0;
     bottom: 0;
-    width: min(380px, 100vw);
+    width: 100%;
     background: var(--cream);
     z-index: 91;
     display: flex;
@@ -1022,6 +1023,14 @@
   @media (max-width: 620px){
     .card-row{ flex-wrap: wrap; }
     .row-pct-wrap{ width: 100%; order: 3; }
+  }
+
+  @media (max-width: 460px){
+    .toolbar{ flex-wrap: wrap; }
+    .toolbar-btn{ min-width: 0; }
+    .toolbar-filter-btn{ flex: 1 1 calc(50% - 6px); }
+    #openSortBtn{ flex: 1 1 calc(50% - 6px); }
+    .toolbar-search-btn{ flex: 1 1 100%; justify-content: center; }
   }
 
   /* ---------- Larger button text on desktop ---------- */
