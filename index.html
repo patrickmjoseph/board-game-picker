@@ -1761,7 +1761,7 @@
 
     let showingTopOnly = false;
     let remainingCount = 0;
-    if (anyActive && matched.length > visibleMatchCount){
+    if (matched.length > visibleMatchCount){
       showingTopOnly = true;
       remainingCount = matched.length - visibleMatchCount;
       matched = matched.slice(0, visibleMatchCount);
@@ -1771,7 +1771,7 @@
       ? fullMatches.filter(g => g.name.toLowerCase().includes(withinQuery)).length
       : fullMatches.length;
     resultsCountEl.textContent = showingTopOnly
-      ? `Showing top ${visibleMatchCount} of ${displayCount} matches`
+      ? (anyActive ? `Showing top ${visibleMatchCount} of ${displayCount} matches` : `Showing ${visibleMatchCount} of ${displayCount} games`)
       : `${displayCount} of ${games.length} games`;
 
     document.getElementById('drawerResultCount').textContent = fullMatches.length;
@@ -1787,8 +1787,8 @@
       const cardsHtml = matched.map(g => renderCard(g, false)).join('');
       const moreBtnHtml = showingTopOnly
         ? `
-          <button class="show-more-btn" id="showMoreMatchesBtn">Show ${Math.min(10, remainingCount)} more</button>
-          <button class="show-all-matches-link" id="showAllMatchesLink">Show all matches</button>
+          <button class="show-more-btn" id="showMoreMatchesBtn">Show ${Math.min(10, remainingCount)} more games</button>
+          <button class="show-all-matches-link" id="showAllMatchesLink">Show all${anyActive ? ' matches' : ''}</button>
         `
         : '';
       resultsArea.innerHTML = `<div class="row-list">${cardsHtml}</div>${moreBtnHtml}`;
