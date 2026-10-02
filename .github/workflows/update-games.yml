@@ -1,0 +1,39 @@
+name: Refresh game data from BoardGameGeek
+
+on:
+  schedule:
+    # Runs daily at 09:00 UTC (~2am Pacific). Edit the cron expression to change the cadence.
+    - cron: '0 9 * * *'
+  workflow_dispatch: {} # lets you trigger a refresh manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest stats from BGG
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
+        run: node scripts/fetch-games.js
+
+      - name: Commit and push if games.json changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- games.json; then
+            echo "No changes to games.json — skipping commit."
+          else
+            git add games.json
+            git commit -m "Refresh game data from BoardGameGeek"
+            git push
+          fi
