@@ -1554,21 +1554,23 @@
         const mb = gameMatches(b) ? 0 : 1;
         if (ma !== mb) return ma - mb;
       }
-      // Number of requirements met is always applied first, on top of whichever
-      // sort option is selected below — highest match percentage floats to the top.
+
+      // Tier 1: best match percentage always wins first, regardless of
+      // whichever sort option is selected below.
       const pa = matchPercentage(a);
       const pb = matchPercentage(b);
       if (pa != null || pb != null){
         const diffPct = (pb == null ? 0 : pb) - (pa == null ? 0 : pa);
         if (diffPct !== 0) return diffPct;
-        const diffScore = matchScore(b) - matchScore(a);
-        if (diffScore !== 0) return diffScore;
       }
+
       if (prioritizeBestPlayers){
         const ba = isBestPlayerMatch(a) ? 0 : 1;
         const bb = isBestPlayerMatch(b) ? 0 : 1;
         if (ba !== bb) return ba - bb;
       }
+
+      // Tier 2: the user's chosen sort, applied within each match-percentage tier.
       if (sortBy === 'rank'){
         const ua = a.rank === 0 ? 1 : 0; // unranked always last, regardless of direction
         const ub = b.rank === 0 ? 1 : 0;
@@ -1577,15 +1579,15 @@
           const diff = (a.rank - b.rank) * dir;
           if (diff !== 0) return diff;
         }
-        return a.name.localeCompare(b.name);
-      }
-      if (primary){
+      } else if (primary){
         const diff = (primary(a) - primary(b)) * dir;
         if (diff !== 0) return diff;
       } else {
         const diff = a.name.localeCompare(b.name) * dir;
         if (diff !== 0) return diff;
       }
+
+      // Final tiebreak so equal-ranked/equal-valued games have a stable order.
       return a.name.localeCompare(b.name);
     });
   }
