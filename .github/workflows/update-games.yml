@@ -42,14 +42,10 @@ jobs:
             git add games.json
             MSG="Refresh game data from BoardGameGeek"
             if [ "${ADDED_COUNT:-0}" != "0" ]; then
-              MSG="$MSG
-
-Added ($ADDED_COUNT): $ADDED_NAMES"
+              MSG="$MSG"$'\n\n'"Added ($ADDED_COUNT): $ADDED_NAMES"
             fi
             if [ "${REMOVED_COUNT:-0}" != "0" ]; then
-              MSG="$MSG
-
-Removed ($REMOVED_COUNT): $REMOVED_NAMES"
+              MSG="$MSG"$'\n\n'"Removed ($REMOVED_COUNT): $REMOVED_NAMES"
             fi
             git commit -m "$MSG"
             git push
