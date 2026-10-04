@@ -142,6 +142,14 @@ function parseGames(xml) {
     // "Teams" games, so that always needs a manual check.
     const isCoop = /<link[^>]*type="boardgamecategory"[^>]*value="Cooperative Game"/.test(body);
 
+    // Full list of BGG-listed mechanics (e.g. "Hand Management", "Variable
+    // Set-up"). This is the raw catalog, refreshed every run; a separate
+    // "primaryMechanics" field (hand-curated, never touched here) holds
+    // just the ones that matter most for a given game.
+    const mechanics = [...body.matchAll(/<link[^>]*type="boardgamemechanic"[^>]*value="([^"]*)"[^>]*\/?>/g)]
+      .map(([, value]) => decodeEntities(value))
+      .sort((a, b) => a.localeCompare(b));
+
     results[id] = {
       name: nameMatch ? decodeEntities(nameMatch[1]) : null,
       year: parseFloat(attr(body, "yearpublished", "value")) || null,
@@ -160,6 +168,7 @@ function parseGames(xml) {
       bestPlayers: bestPlayers.length ? bestPlayers : null,
       thumbnail: thumbMatch ? thumbMatch[1].trim() : null,
       description: descMatch ? shorten(descMatch[1], MAX_DESC_LENGTH) : null,
+      mechanics,
       detectedType: isCoop ? 'coop' : 'comp'
     };
   }
@@ -272,10 +281,11 @@ async function main() {
       bestPlayers: fresh.bestPlayers || g.bestPlayers,
       thumbnail: fresh.thumbnail || g.thumbnail,
       description: fresh.description || g.description,
+      mechanics: fresh.mechanics.length ? fresh.mechanics : g.mechanics,
       // type is preserved as-is for existing games; only ever set here when
       // it's still null, i.e. a brand-new game this run just added
       type: g.type != null ? g.type : fresh.detectedType
-      // id is never overwritten
+      // id, and primaryMechanics (hand-curated), are never overwritten here
     };
   });
 
