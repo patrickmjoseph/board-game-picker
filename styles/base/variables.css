@@ -1,0 +1,49 @@
+/*
+ * Design tokens shared by every stylesheet.
+ *
+ * Breakpoints used across the components (CSS custom properties cannot be
+ * used inside media queries, so they are documented here instead):
+ *   - max-width: 460px  -> narrow phones (toolbar wraps onto two rows)
+ *   - max-width: 620px  -> phones (game cards wrap the match bar below)
+ *   - min-width: 861px  -> desktop (larger text, fixed-width drawers)
+ */
+
+:root {
+  /* ---------- Colors ---------- */
+
+  --felt: #4A2A12;
+  --felt-dark: #2A1608;
+  --felt-darkest: #1C0E05;
+
+  --cream: #FAF6EE;
+  --cream-alt: #EFE6D5;
+
+  --ink: #2E1D10;
+  --ink-soft: #6B5A47;
+
+  --gold: #A9673A;
+  --gold-dark: #8C5330;
+
+  --plum: #7C5A8A;
+  --plum-dark: #634971;
+
+  --rust: #C08552;
+  --rust-dark: #A9673A;
+
+  --sage: #5C7A5E;
+  --lavender: #EDE3F0;
+
+  --white: #fff;
+  --error-red: #d33;
+
+  /* ---------- Typography ---------- */
+
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Karla', sans-serif;
+
+  /* ---------- Shape ---------- */
+
+  --radius: 10px;
+  --radius-small: 7px;
+  --radius-pill: 999px;
+}

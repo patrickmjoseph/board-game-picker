@@ -1,0 +1,13 @@
+/* Active filters: the row of removable filter chips and the sort chip. */
+
+.active-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.active-filters:empty {
+  display: none;
+  margin-bottom: 0;
+}

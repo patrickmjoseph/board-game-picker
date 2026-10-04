@@ -1,0 +1,13 @@
+/* BGG attribution: the "Powered by BGG" logo pinned below the results. */
+
+.bgg-attribution {
+  display: flex;
+  justify-content: center;
+  padding: 28px 0 12px;
+}
+
+.bgg-attribution__logo {
+  height: 28px;
+  width: auto;
+  opacity: 0.85;
+}

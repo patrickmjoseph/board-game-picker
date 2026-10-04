@@ -1,0 +1,43 @@
+/*
+ * Pagination buttons rendered below the results list:
+ *   - .show-more-button       reveals the next batch of games
+ *   - .show-all-matches-link  reveals every remaining game at once
+ */
+
+.show-more-button {
+  margin: 18px auto 0;
+  display: block;
+  border: none;
+  background: var(--rust);
+  color: var(--felt-dark);
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 10px 24px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.show-more-button:hover {
+  background: var(--rust-dark);
+  color: var(--cream);
+}
+
+.show-all-matches-link {
+  display: block;
+  margin: 10px auto 0;
+  border: none;
+  background: transparent;
+  color: var(--cream-alt);
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 12.5px;
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.show-all-matches-link:hover {
+  color: var(--cream);
+}

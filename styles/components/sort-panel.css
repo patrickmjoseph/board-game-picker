@@ -1,0 +1,88 @@
+/* Sort panel: the current-sort label, sort options and direction toggle in the Sort drawer. */
+
+.sort-panel__current-label {
+  margin: 0;
+  padding: 10px 20px;
+  background: var(--cream-alt);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink-soft);
+}
+
+/* ---------- Options ---------- */
+
+.sort-panel__option-list {
+  display: flex;
+  flex-direction: column;
+  padding: 6px 0;
+}
+
+.sort-panel__option {
+  text-align: left;
+  border: none;
+  background: transparent;
+  padding: 14px 20px;
+  font-family: inherit;
+  font-size: 14.5px;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.sort-panel__option:hover {
+  background: var(--cream-alt);
+}
+
+/* The active option keeps its highlight even while hovered. */
+.sort-panel__option--active,
+.sort-panel__option--active:hover {
+  background: var(--plum);
+  color: var(--white);
+  font-weight: 700;
+}
+
+/* ---------- Direction toggle ---------- */
+
+.sort-panel__direction-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-top: 1px solid var(--cream-alt);
+  margin-top: 8px;
+  font-weight: 700;
+  font-size: 13.5px;
+}
+
+.sort-panel__direction-button {
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  border: none;
+  border-radius: 50%;
+  background: var(--rust);
+  color: var(--white);
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.sort-panel__direction-button:hover {
+  background: var(--rust-dark);
+}
+
+.sort-panel__direction-button:active {
+  transform: scale(0.9);
+}
+
+/* ---------- Desktop ---------- */
+
+@media (min-width: 861px) {
+  .sort-panel__direction-button {
+    font-size: 18px;
+  }
+}

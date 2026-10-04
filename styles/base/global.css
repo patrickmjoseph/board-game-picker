@@ -1,0 +1,20 @@
+/* Page-wide defaults: felt background, body typography, links and focus rings. */
+
+html,
+body {
+  background: radial-gradient(ellipse at top, var(--felt) 0%, var(--felt-dark) 100%);
+  background-attachment: fixed;
+  color: var(--ink);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--rust);
+  outline-offset: 2px;
+}

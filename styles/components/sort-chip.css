@@ -1,0 +1,44 @@
+/* Sort chip: shows the user-chosen sort; toggles direction or resets to default. */
+
+.sort-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--plum);
+  color: var(--white);
+  border-radius: var(--radius-pill);
+  padding: 6px 6px 6px 14px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.22);
+}
+
+.sort-chip__toggle {
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 12.5px;
+  cursor: pointer;
+  padding: 0;
+}
+
+.sort-chip__remove-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.25);
+  color: var(--white);
+  font-size: 12px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.sort-chip__remove-button:hover {
+  background: var(--rust);
+}

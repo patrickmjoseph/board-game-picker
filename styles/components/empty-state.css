@@ -1,0 +1,22 @@
+/* Empty state: the cream message card shown while loading, on errors, or when nothing matches. */
+
+.empty-state {
+  background: var(--cream);
+  border-radius: var(--radius);
+  padding: 44px 28px;
+  text-align: center;
+  color: var(--ink-soft);
+}
+
+.empty-state__title {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 19px;
+  margin: 0 0 8px;
+}
+
+.empty-state__message {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+}

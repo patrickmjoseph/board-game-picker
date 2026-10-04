@@ -1,0 +1,17 @@
+/* Results header: the "Showing X of Y games" line above the results list. */
+
+.results-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: flex-start;
+  color: var(--cream);
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.results-header__count {
+  font-size: 14px;
+  color: var(--cream-alt);
+  opacity: 0.9;
+}

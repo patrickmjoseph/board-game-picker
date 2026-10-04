@@ -1,0 +1,37 @@
+/*
+ * Stylesheet entry point. Files are imported in cascade order:
+ * design tokens and resets first, then page layout, then components.
+ * Each component file holds exactly one BEM block (plus its media queries).
+ */
+
+/* ---------- Base ---------- */
+
+@import url('base/variables.css');
+@import url('base/reset.css');
+@import url('base/global.css');
+
+/* ---------- Layout ---------- */
+
+@import url('layout/site-header.css');
+@import url('layout/page-content.css');
+
+/* ---------- Components ---------- */
+
+@import url('components/toolbar.css');
+@import url('components/active-filters.css');
+@import url('components/filter-chip.css');
+@import url('components/sort-chip.css');
+@import url('components/drawer.css');
+@import url('components/filter-panel.css');
+@import url('components/sort-panel.css');
+@import url('components/segmented-control.css');
+@import url('components/bgg-attribution.css');
+@import url('components/back-to-top-button.css');
+@import url('components/results-header.css');
+@import url('components/search-bubble.css');
+@import url('components/empty-state.css');
+@import url('components/results-list.css');
+@import url('components/pagination-buttons.css');
+@import url('components/game-card.css');
+@import url('components/badge.css');
+@import url('components/match-bar.css');

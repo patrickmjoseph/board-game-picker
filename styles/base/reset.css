@@ -1,0 +1,9 @@
+/* Minimal reset applied to every element. */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}

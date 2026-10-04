@@ -1,0 +1,38 @@
+/* Filter chip: one active filter category; clicking it removes that filter. */
+
+.filter-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--cream);
+  color: var(--ink);
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 6px 8px 6px 14px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 12.5px;
+  cursor: pointer;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.22);
+}
+
+.filter-chip:hover {
+  background: var(--white);
+}
+
+.filter-chip__remove-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--ink-soft);
+  color: var(--white);
+  font-size: 12px;
+  line-height: 1;
+}
+
+.filter-chip:hover .filter-chip__remove-icon {
+  background: var(--rust);
+}

@@ -1,0 +1,50 @@
+/* Filter panel: the accordion of filter categories inside the Filter drawer. */
+
+.filter-panel__category {
+  border-bottom: 1px solid var(--cream-alt);
+}
+
+.filter-panel__category-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  background: transparent;
+  padding: 16px 20px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 14.5px;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.filter-panel__category-toggle:hover {
+  background: var(--cream-alt);
+}
+
+.filter-panel__category-status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter-panel__category-readout {
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+.filter-panel__category-chevron {
+  font-size: 20px;
+  color: var(--ink-soft);
+  transition: transform 0.15s ease;
+}
+
+.filter-panel__category--open .filter-panel__category-chevron {
+  transform: rotate(90deg);
+}
+
+.filter-panel__category-options {
+  padding: 4px 20px 18px;
+}

@@ -1,0 +1,146 @@
+/*
+ * Drawer: the slide-in side panel shared by the Filter and Sort drawers,
+ * plus the dimmed backdrop rendered behind it.
+ *
+ * Mobile: the drawer is full-width (width: 100%) so no backdrop gap shows.
+ * Desktop: the drawer is a fixed 420px sidebar.
+ */
+
+/* ---------- Backdrop ---------- */
+
+.drawer-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 90;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.15s ease, visibility 0.15s ease;
+}
+
+.drawer-backdrop--open {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+/* ---------- Panel ---------- */
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background: var(--cream);
+  z-index: 91;
+  display: flex;
+  flex-direction: column;
+  box-shadow: -8px 0 30px rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transform: translateX(24px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
+}
+
+.drawer--open {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translateX(0);
+}
+
+/* ---------- Header ---------- */
+
+.drawer__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 20px;
+  border-bottom: 1px solid var(--cream-alt);
+  flex-shrink: 0;
+}
+
+.drawer__title {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.drawer__close-button {
+  border: none;
+  background: transparent;
+  font-size: 24px;
+  line-height: 1;
+  color: var(--ink-soft);
+  cursor: pointer;
+  padding: 2px 6px;
+}
+
+.drawer__close-button:hover {
+  color: var(--rust);
+}
+
+/* ---------- Body ---------- */
+
+.drawer__body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 6px 0;
+}
+
+/* ---------- Footer ---------- */
+
+.drawer__footer {
+  display: flex;
+  gap: 10px;
+  padding: 16px 20px;
+  border-top: 1px solid var(--cream-alt);
+  flex-shrink: 0;
+}
+
+.drawer__clear-button {
+  flex: 1;
+  padding: 12px;
+  border-radius: var(--radius-small);
+  border: 1px solid var(--ink-soft);
+  background: transparent;
+  color: var(--ink);
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.drawer__clear-button:hover {
+  background: var(--cream-alt);
+}
+
+.drawer__apply-button {
+  flex: 2;
+  padding: 12px;
+  border-radius: var(--radius-small);
+  border: none;
+  background: var(--gold);
+  color: var(--felt-dark);
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.drawer__apply-button:hover {
+  background: var(--gold-dark);
+  color: var(--cream);
+}
+
+/* ---------- Desktop ---------- */
+
+@media (min-width: 861px) {
+  .drawer {
+    width: 420px;
+  }
+}

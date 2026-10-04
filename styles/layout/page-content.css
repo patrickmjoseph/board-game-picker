@@ -1,0 +1,8 @@
+/* Main content column that holds the toolbar, filter chips and results. */
+
+.page-content {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 36px 28px 90px;
+  display: block;
+}

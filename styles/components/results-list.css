@@ -1,0 +1,7 @@
+/* Results list: the vertical stack of game cards. */
+
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
