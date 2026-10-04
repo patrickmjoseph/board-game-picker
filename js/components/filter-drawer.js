@@ -61,7 +61,7 @@ export function updateFilterDrawerResultCount(matchingGameCount) {
 }
 
 export function initializeFilterDrawer({ requestRender }) {
-  const { closeDrawer } = createDrawerController({
+  const { openDrawer, closeDrawer } = createDrawerController({
     drawerId: ELEMENT_ID.FILTER_DRAWER,
     backdropId: ELEMENT_ID.FILTER_BACKDROP,
     openButtonId: ELEMENT_ID.OPEN_FILTER_BUTTON,
@@ -75,4 +75,6 @@ export function initializeFilterDrawer({ requestRender }) {
   });
 
   document.getElementById(ELEMENT_ID.APPLY_FILTERS_BUTTON).addEventListener('click', closeDrawer);
+
+  return { openDrawer };
 }

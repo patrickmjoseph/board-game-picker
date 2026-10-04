@@ -63,14 +63,17 @@ function initializeComponents() {
   const componentOptions = { requestRender: renderApplication };
 
   initializeSegmentedControls(componentOptions);
-  initializeFilterDrawer(componentOptions);
+  const { openDrawer: openFilterDrawer } = initializeFilterDrawer(componentOptions);
   initializeSortDrawer(componentOptions);
   initializeResults(componentOptions);
   initializeActiveFilters(componentOptions);
   initializeSearchBubble(componentOptions);
   initializeBackToTopButton();
+
+  return { openFilterDrawer };
 }
 
-initializeComponents();
+const { openFilterDrawer } = initializeComponents();
 updateSortDisplay();
 loadGamesAndRender();
+openFilterDrawer();
