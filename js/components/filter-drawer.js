@@ -2,7 +2,14 @@
  * Filter drawer: the accordion of filter categories plus the Clear / "See N results" footer.
  */
 
-import { CATEGORY_OPTIONS_ID_PREFIX, CSS_CLASS, ELEMENT_ID } from '../constants.js';
+import {
+  APPLY_FILTERS_ALL_GAMES_LABEL,
+  APPLY_FILTERS_LABEL_PREFIX,
+  APPLY_FILTERS_LABEL_SUFFIX,
+  CATEGORY_OPTIONS_ID_PREFIX,
+  CSS_CLASS,
+  ELEMENT_ID,
+} from '../constants.js';
 import { resetSortToDefault, resetVisibleMatchCount } from '../state.js';
 import { createDrawerController } from './drawer.js';
 import { resetAllFilterDimensions } from './segmented-controls.js';
@@ -56,8 +63,13 @@ function handleClearButtonClick(requestRender) {
 
 // ==================== Public API ====================
 
-export function updateFilterDrawerResultCount(matchingGameCount) {
-  document.getElementById(ELEMENT_ID.FILTER_DRAWER_RESULT_COUNT).textContent = matchingGameCount;
+// With no filters applied the button reads "See all games"; otherwise "See N results".
+export function updateFilterDrawerResultCount(matchingGameCount, isAnyFilterActive) {
+  const applyButtonLabel = isAnyFilterActive
+    ? APPLY_FILTERS_LABEL_PREFIX + matchingGameCount + APPLY_FILTERS_LABEL_SUFFIX
+    : APPLY_FILTERS_ALL_GAMES_LABEL;
+
+  document.getElementById(ELEMENT_ID.APPLY_FILTERS_BUTTON).textContent = applyButtonLabel;
 }
 
 export function initializeFilterDrawer({ requestRender }) {

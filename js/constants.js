@@ -195,6 +195,10 @@ export const NO_RANKING_YET_TEXT = 'No ranking yet';
 
 export const NO_DATA_YET_TEXT = 'No data yet';
 
+export const APPLY_FILTERS_ALL_GAMES_LABEL = 'See all games';
+export const APPLY_FILTERS_LABEL_PREFIX = 'See ';
+export const APPLY_FILTERS_LABEL_SUFFIX = ' results';
+
 export const NO_MATCHES_TITLE = 'No games match these filters';
 
 export const NO_MATCHES_MESSAGE =
@@ -235,7 +239,6 @@ export const ELEMENT_ID = Object.freeze({
   CLOSE_FILTER_BUTTON: 'closeFilterBtn',
   CLEAR_FILTERS_BUTTON: 'drawerClearBtn',
   APPLY_FILTERS_BUTTON: 'drawerApplyBtn',
-  FILTER_DRAWER_RESULT_COUNT: 'drawerResultCount',
 
   SORT_DRAWER: 'sortDrawer',
   SORT_BACKDROP: 'sortBackdrop',

@@ -93,7 +93,7 @@ export function renderResults() {
   const resultsPage = buildResultsPage();
 
   resultsCountElement.textContent = formatResultsCountText(resultsPage);
-  updateFilterDrawerResultCount(resultsPage.filterMatchedCount);
+  updateFilterDrawerResultCount(resultsPage.filterMatchedCount, hasAnyActiveFilter());
 
   document.getElementById(ELEMENT_ID.RESULTS_AREA).innerHTML = createResultsListHtml(resultsPage);
 }
