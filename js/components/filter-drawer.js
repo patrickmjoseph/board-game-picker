@@ -12,6 +12,7 @@ import {
 } from '../constants.js';
 import { resetSortToDefault, resetVisibleMatchCount } from '../state.js';
 import { createDrawerController } from './drawer.js';
+import { initializeExactMatchSwitch, resetExactMatchSwitch } from './exact-match-switch.js';
 import { resetAllFilterDimensions } from './segmented-controls.js';
 import { updateSortDisplay } from './sort-drawer.js';
 
@@ -55,6 +56,7 @@ function initializeCategoryAccordion() {
 // "Clear" resets every filter and also restores the default sort.
 function handleClearButtonClick(requestRender) {
   resetAllFilterDimensions();
+  resetExactMatchSwitch();
   resetSortToDefault();
   updateSortDisplay();
   resetVisibleMatchCount();
@@ -81,6 +83,7 @@ export function initializeFilterDrawer({ requestRender }) {
   });
 
   initializeCategoryAccordion();
+  initializeExactMatchSwitch({ requestRender });
 
   document.getElementById(ELEMENT_ID.CLEAR_FILTERS_BUTTON).addEventListener('click', () => {
     handleClearButtonClick(requestRender);

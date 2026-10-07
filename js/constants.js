@@ -239,6 +239,7 @@ export const ELEMENT_ID = Object.freeze({
   CLOSE_FILTER_BUTTON: 'closeFilterBtn',
   CLEAR_FILTERS_BUTTON: 'drawerClearBtn',
   APPLY_FILTERS_BUTTON: 'drawerApplyBtn',
+  EXACT_MATCH_SWITCH: 'exactMatchSwitch',
 
   SORT_DRAWER: 'sortDrawer',
   SORT_BACKDROP: 'sortBackdrop',
@@ -281,6 +282,8 @@ export const CSS_CLASS = Object.freeze({
   FILTER_CATEGORY_OPEN: 'filter-panel__category--open',
   FILTER_CATEGORY_TOGGLE: 'filter-panel__category-toggle',
   FILTER_CATEGORY_OPTIONS: 'filter-panel__category-options',
+
+  EXACT_MATCH_SWITCH_ON: 'exact-match-switch--on',
 
   SEGMENTED_CONTROL_OPTION_ACTIVE: 'segmented-control__option--active',
 

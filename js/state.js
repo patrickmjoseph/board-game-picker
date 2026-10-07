@@ -20,6 +20,9 @@ export const appState = {
   isSortChosenByUser: false,
   searchQuery: '',
 
+  // false = OR logic (a game may match any active filter); true = AND logic (must match all).
+  requireAllFilters: false,
+
   // Selected option values per filter dimension; an empty array means "Any".
   filterSelections: {
     players: [],
@@ -67,6 +70,10 @@ export function countActiveFilterDimensions() {
 
 export function hasAnyActiveFilter() {
   return countActiveFilterDimensions() > 0;
+}
+
+export function setRequireAllFilters(shouldRequireAll) {
+  appState.requireAllFilters = shouldRequireAll;
 }
 
 // ==================== Sorting ====================

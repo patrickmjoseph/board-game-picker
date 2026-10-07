@@ -1,0 +1,51 @@
+/* Exact-match switch: toggles between OR logic (off) and AND logic (on) for the filters. */
+
+.exact-match-switch {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  border-bottom: 1px solid var(--cream-alt);
+  background: transparent;
+  padding: 16px 20px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 14.5px;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.exact-match-switch:hover {
+  background: var(--cream-alt);
+}
+
+.exact-match-switch__track {
+  position: relative;
+  flex-shrink: 0;
+  width: 42px;
+  height: 24px;
+  border-radius: 999px;
+  background: var(--ink-soft);
+  transition: background 0.15s ease;
+}
+
+.exact-match-switch__thumb {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--cream);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  transition: transform 0.15s ease;
+}
+
+.exact-match-switch--on .exact-match-switch__track {
+  background: var(--gold);
+}
+
+.exact-match-switch--on .exact-match-switch__thumb {
+  transform: translateX(18px);
+}

@@ -16,7 +16,7 @@ import {
   TWO_PLAYER_ONLY_COUNT,
   TWO_PLAYER_ONLY_OPTION_VALUE,
 } from '../constants.js';
-import { getFilterSelection } from '../state.js';
+import { appState, getFilterSelection } from '../state.js';
 import { getDifficultyBucket } from './difficulty.js';
 import { findLengthBucketById } from './filter-labels.js';
 
@@ -133,12 +133,17 @@ function getActiveDimensionResults(game) {
     .filter((dimensionResult) => dimensionResult !== null);
 }
 
-// A game is listed when no filters are active, or when it passes at least one active dimension.
+// A game is listed when no filters are active, or when it passes at least one active dimension
+// (OR logic) — or every active dimension when "exact matches only" is on (AND logic).
 export function gameMatchesFilters(game) {
   const activeDimensionResults = getActiveDimensionResults(game);
 
   if (activeDimensionResults.length === 0) {
     return true;
+  }
+
+  if (appState.requireAllFilters) {
+    return activeDimensionResults.every((dimensionResult) => dimensionResult === true);
   }
 
   return activeDimensionResults.some((dimensionResult) => dimensionResult === true);
