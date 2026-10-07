@@ -48,12 +48,9 @@
 
 /* ---------- Button modifiers ---------- */
 
-.toolbar__button--filter {
+.toolbar__button--search {
   flex: 1 1 auto;
   justify-content: center;
-}
-
-.toolbar__button--search {
   background: var(--gold);
   color: var(--felt-dark);
 }
