@@ -26,26 +26,32 @@
   width: 42px;
   height: 24px;
   border-radius: 999px;
-  background: var(--ink-soft);
-  transition: background 0.15s ease;
+  background: var(--white);
+  border: 1px solid var(--ink-soft);
+  transition: background 0.15s ease, border-color 0.15s ease;
 }
 
 .exact-match-switch__thumb {
   position: absolute;
-  top: 3px;
-  left: 3px;
+  top: 2px;
+  left: 2px;
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: var(--cream);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-  transition: transform 0.15s ease;
+  background: var(--ink-soft);
+  transition: transform 0.15s ease, background 0.15s ease;
 }
 
 .exact-match-switch--on .exact-match-switch__track {
-  background: var(--gold);
+  background: var(--plum);
+  border-color: var(--plum);
 }
 
 .exact-match-switch--on .exact-match-switch__thumb {
+  background: var(--cream);
   transform: translateX(18px);
+}
+
+.exact-match-switch--on .exact-match-switch__label {
+  color: var(--plum-dark);
 }
