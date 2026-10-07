@@ -20,6 +20,7 @@ import {
   UNRANKED_GAME_RANK,
   WEIGHT_DECIMAL_PLACES,
 } from '../constants.js';
+import { appState } from '../state.js';
 import { getWeightWord } from '../utils/difficulty.js';
 import { dimensionPasses, getMatchPercentage, isBestPlayerMatch } from '../utils/matching.js';
 import { createBadgeHtml } from './badge.js';
@@ -221,9 +222,18 @@ export function createGameCardHtml(game, isNoMatch) {
             <div class="${CSS_CLASS.GAME_CARD_BADGES}">${createDetailBadgesHtml(game)}</div>
           </div>
         </div>
-        <div class="${CSS_CLASS.GAME_CARD_MATCH_COLUMN}">${createMatchBarHtml(getMatchPercentage(game))}</div>
+        <div class="${CSS_CLASS.GAME_CARD_MATCH_COLUMN}">${createMatchColumnHtml(game)}</div>
       </div>
     `;
+}
+
+// With "exact matches only" on, every listed game is a 100% match, so the bar is hidden.
+function createMatchColumnHtml(game) {
+  if (appState.requireAllFilters) {
+    return '';
+  }
+
+  return createMatchBarHtml(getMatchPercentage(game));
 }
 
 // Expands or collapses a card's details section. Returns true if the click was handled.
