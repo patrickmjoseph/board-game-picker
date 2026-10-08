@@ -150,6 +150,14 @@ function parseGames(xml) {
       .map(([, value]) => decodeEntities(value))
       .sort((a, b) => a.localeCompare(b));
 
+    // Full list of BGG-listed categories, stored as "genres" (e.g. "Card
+    // Game", "Economic"). Raw catalog, refreshed every run; a separate
+    // "primaryGenres" field (hand-curated, never touched here) holds the
+    // genres chosen for a game.
+    const genres = [...body.matchAll(/<link[^>]*type="boardgamecategory"[^>]*value="([^"]*)"[^>]*\/?>/g)]
+      .map(([, value]) => decodeEntities(value))
+      .sort((a, b) => a.localeCompare(b));
+
     results[id] = {
       name: nameMatch ? decodeEntities(nameMatch[1]) : null,
       year: parseFloat(attr(body, "yearpublished", "value")) || null,
@@ -169,6 +177,7 @@ function parseGames(xml) {
       thumbnail: thumbMatch ? thumbMatch[1].trim() : null,
       description: descMatch ? shorten(descMatch[1], MAX_DESC_LENGTH) : null,
       mechanics,
+      genres,
       detectedType: isCoop ? 'coop' : 'comp'
     };
   }
@@ -282,10 +291,11 @@ async function main() {
       thumbnail: fresh.thumbnail || g.thumbnail,
       description: fresh.description || g.description,
       mechanics: fresh.mechanics.length ? fresh.mechanics : g.mechanics,
+      genres: fresh.genres.length ? fresh.genres : g.genres,
       // type is preserved as-is for existing games; only ever set here when
       // it's still null, i.e. a brand-new game this run just added
       type: g.type != null ? g.type : fresh.detectedType
-      // id, and primaryMechanics (hand-curated), are never overwritten here
+      // id, primaryMechanics and primaryGenres (hand-curated), are never overwritten here
     };
   });
 
