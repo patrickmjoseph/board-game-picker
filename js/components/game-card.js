@@ -236,20 +236,44 @@ function createMatchColumnHtml(game) {
   return createMatchBarHtml(getMatchPercentage(game));
 }
 
-// Expands or collapses a card's details section. Returns true if the click was handled.
-export function handleDetailsToggleClick(clickEvent) {
-  const detailsToggleElement = clickEvent.target.closest(`.${CSS_CLASS.GAME_CARD_DETAILS_TOGGLE}`);
-
-  if (!detailsToggleElement) {
-    return false;
-  }
-
+function toggleCardDetails(detailsToggleElement) {
   const detailsElement = document.getElementById(detailsToggleElement.dataset.target);
   const wasHidden = detailsElement.hidden;
 
   detailsElement.hidden = !wasHidden;
   detailsToggleElement.textContent = wasHidden ? DETAILS_TOGGLE_HIDE_LABEL : DETAILS_TOGGLE_SHOW_LABEL;
   detailsToggleElement.setAttribute('aria-expanded', wasHidden ? 'true' : 'false');
+}
+
+// True when the click landed on something with its own behaviour (BGG link, rank tooltip),
+// or ended a text selection, so it should not also toggle the card.
+function isCardClickIgnored(clickEvent) {
+  const interactiveSelector = `a, .${CSS_CLASS.GAME_CARD_RANK_HELP}`;
+
+  if (clickEvent.target.closest(interactiveSelector)) {
+    return true;
+  }
+
+  return Boolean(window.getSelection && window.getSelection().toString());
+}
+
+// Expands or collapses a card's details section when its toggle button or any other part
+// of the card is clicked. Returns true if the click was handled.
+export function handleDetailsToggleClick(clickEvent) {
+  const cardElement = clickEvent.target.closest(`.${CSS_CLASS.GAME_CARD}`);
+
+  if (!cardElement) {
+    return false;
+  }
+
+  const detailsToggleElement = cardElement.querySelector(`.${CSS_CLASS.GAME_CARD_DETAILS_TOGGLE}`);
+  const isToggleButtonClick = Boolean(clickEvent.target.closest(`.${CSS_CLASS.GAME_CARD_DETAILS_TOGGLE}`));
+
+  if (!detailsToggleElement || (!isToggleButtonClick && isCardClickIgnored(clickEvent))) {
+    return false;
+  }
+
+  toggleCardDetails(detailsToggleElement);
 
   return true;
 }
