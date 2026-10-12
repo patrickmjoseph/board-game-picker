@@ -53,10 +53,10 @@ export const MULTIPLE_PLAYERS_READOUT_SUFFIX = ' players';
 
 // Each weight strictly below `upperWeightLimit` falls into `bucket`.
 export const DIFFICULTY_BUCKET_THRESHOLDS = Object.freeze([
-  { upperWeightLimit: 2, bucket: 1 },
-  { upperWeightLimit: 2.5, bucket: 2 },
+  { upperWeightLimit: 1.5, bucket: 1 },
+  { upperWeightLimit: 2, bucket: 2 },
   { upperWeightLimit: 3, bucket: 3 },
-  { upperWeightLimit: 3.75, bucket: 4 },
+  { upperWeightLimit: 3.5, bucket: 4 },
 ]);
 
 export const HEAVIEST_DIFFICULTY_BUCKET = 5;
