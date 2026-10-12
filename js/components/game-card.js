@@ -141,12 +141,17 @@ function createThumbnailPlaceholderHtml() {
   return `<div class="${CSS_CLASS.GAME_CARD_THUMBNAIL_PLACEHOLDER}">${THUMBNAIL_PLACEHOLDER_ICON}</div>`;
 }
 
-function createThumbnailHtml(game) {
+function createThumbnailImageHtml(game) {
   if (!game.thumbnail) {
     return createThumbnailPlaceholderHtml();
   }
 
   return `<img class="${CSS_CLASS.GAME_CARD_THUMBNAIL}" src="${game.thumbnail}" alt="" loading="lazy">`;
+}
+
+// The thumbnail links to the game's BoardGameGeek page, like the title does.
+function createThumbnailHtml(game) {
+  return `<a class="${CSS_CLASS.GAME_CARD_THUMBNAIL_LINK}" href="${BOARD_GAME_GEEK_GAME_URL_PREFIX}${game.id}" target="_blank" rel="noopener" aria-label="${game.name.replace(/"/g, '&quot;')} on BoardGameGeek">${createThumbnailImageHtml(game)}</a>`;
 }
 
 function createTitleHtml(game) {

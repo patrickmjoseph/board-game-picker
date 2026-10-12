@@ -139,6 +139,12 @@
 
 /* ---------- Thumbnail ---------- */
 
+.game-card__thumbnail-link {
+  display: block;
+  flex-shrink: 0;
+  line-height: 0;
+}
+
 .game-card__thumbnail {
   width: 64px;
   height: 64px;

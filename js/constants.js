@@ -313,6 +313,7 @@ export const CSS_CLASS = Object.freeze({
   GAME_CARD_BEST_PLAYER_MATCH: 'game-card--best-player-match',
   GAME_CARD_BEST_PLAYER_STAR: 'game-card__best-player-star',
   GAME_CARD_BEST_PLAYER_CALLOUT: 'game-card__best-player-callout',
+  GAME_CARD_THUMBNAIL_LINK: 'game-card__thumbnail-link',
   GAME_CARD_THUMBNAIL: 'game-card__thumbnail',
   GAME_CARD_THUMBNAIL_PLACEHOLDER: 'game-card__thumbnail-placeholder',
   GAME_CARD_MAIN: 'game-card__main',
