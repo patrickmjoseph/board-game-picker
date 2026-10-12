@@ -2,7 +2,8 @@
  * Drawer: the slide-in side panel shared by the Filter and Sort drawers,
  * plus the dimmed backdrop rendered behind it.
  *
- * Mobile: the drawer is full-width (width: 100%) so no backdrop gap shows.
+ * Mobile: the drawer covers 72% of the width, leaving a dimmed strip of the games list
+ * visible on the left (tap it to close).
  * Desktop: the drawer is a fixed 420px sidebar.
  */
 
@@ -32,7 +33,8 @@
   top: 0;
   right: 0;
   bottom: 0;
-  width: 100%;
+  width: 72%;
+  max-width: 420px;
   background: var(--cream);
   z-index: 91;
   display: flex;
