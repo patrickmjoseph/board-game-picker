@@ -12,6 +12,9 @@ import {
   VISIBLE_MATCH_COUNT_INCREMENT,
 } from './constants.js';
 
+// "Exact matches only" (AND logic) is on by default.
+export const DEFAULT_REQUIRE_ALL_FILTERS = true;
+
 export const appState = {
   games: [],
   visibleMatchCount: INITIAL_VISIBLE_MATCH_COUNT,
@@ -21,7 +24,7 @@ export const appState = {
   searchQuery: '',
 
   // false = OR logic (a game may match any active filter); true = AND logic (must match all).
-  requireAllFilters: false,
+  requireAllFilters: DEFAULT_REQUIRE_ALL_FILTERS,
 
   // Selected option values per filter dimension; an empty array means "Any".
   filterSelections: {

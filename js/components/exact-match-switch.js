@@ -1,10 +1,10 @@
 /*
  * Exact-match switch: the "Exact matches only" toggle in the filter drawer.
- * Off (default) = OR logic, on = AND logic.
+ * On (default) = AND logic, off = OR logic.
  */
 
 import { CSS_CLASS, ELEMENT_ID } from '../constants.js';
-import { appState, resetVisibleMatchCount, setRequireAllFilters } from '../state.js';
+import { appState, DEFAULT_REQUIRE_ALL_FILTERS, resetVisibleMatchCount, setRequireAllFilters } from '../state.js';
 
 function getSwitchElement() {
   return document.getElementById(ELEMENT_ID.EXACT_MATCH_SWITCH);
@@ -17,13 +17,15 @@ function showSwitchState(isOn) {
   switchElement.setAttribute('aria-checked', String(isOn));
 }
 
-// Back to the default (OR logic); does not re-render.
+// Back to the default (AND logic); does not re-render.
 export function resetExactMatchSwitch() {
-  setRequireAllFilters(false);
-  showSwitchState(false);
+  setRequireAllFilters(DEFAULT_REQUIRE_ALL_FILTERS);
+  showSwitchState(DEFAULT_REQUIRE_ALL_FILTERS);
 }
 
 export function initializeExactMatchSwitch({ requestRender }) {
+  showSwitchState(appState.requireAllFilters);
+
   getSwitchElement().addEventListener('click', () => {
     const isNowOn = !appState.requireAllFilters;
 
