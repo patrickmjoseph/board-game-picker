@@ -6,6 +6,7 @@
 import {
   CSS_CLASS,
   ELEMENT_ID,
+  EXACT_MATCHES_ONLY_NOTE,
   NO_MATCHES_MESSAGE,
   NO_MATCHES_TITLE,
   VISIBLE_MATCH_COUNT_INCREMENT,
@@ -56,6 +57,15 @@ function formatResultsCountText(resultsPage) {
   return `Showing ${appState.visibleMatchCount} of ${resultsPage.totalResultCount} games`;
 }
 
+// With "exact matches only" on and at least one filter applied, the count line says so.
+function getExactMatchNoteText() {
+  if (appState.requireAllFilters && hasAnyActiveFilter()) {
+    return EXACT_MATCHES_ONLY_NOTE;
+  }
+
+  return '';
+}
+
 function createPaginationButtonsHtml(resultsPage) {
   if (!resultsPage.isTruncated) {
     return '';
@@ -92,7 +102,7 @@ export function renderResults() {
 
   const resultsPage = buildResultsPage();
 
-  resultsCountElement.textContent = formatResultsCountText(resultsPage);
+  resultsCountElement.textContent = formatResultsCountText(resultsPage) + getExactMatchNoteText();
   updateFilterDrawerResultCount(resultsPage.filterMatchedCount, hasAnyActiveFilter());
 
   document.getElementById(ELEMENT_ID.RESULTS_AREA).innerHTML = createResultsListHtml(resultsPage);

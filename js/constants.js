@@ -71,6 +71,9 @@ export const DIFFICULTY_BUCKET_WORDS = Object.freeze({
 
 export const WEIGHT_DECIMAL_PLACES = 2;
 
+// Appended to the results count while "Exact matches only" is on and filters are applied.
+export const EXACT_MATCHES_ONLY_NOTE = ' (only showing exact matches)';
+
 // ==================== Game length ====================
 
 export const LENGTH_BUCKETS = Object.freeze([
