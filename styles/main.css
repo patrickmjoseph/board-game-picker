@@ -12,7 +12,7 @@
 
 /* ---------- Layout ---------- */
 
-@import url('layout/site-header.css');
+@import url('layout/site-header.css?v=2');
 @import url('layout/page-content.css');
 
 /* ---------- Components ---------- */

@@ -4,6 +4,7 @@
  */
 
 import {
+  ELEMENT_ID,
   GAMES_DATA_FETCH_OPTIONS,
   GAMES_DATA_URL,
   LOAD_FAILURE_CONSOLE_PREFIX,
@@ -57,6 +58,16 @@ async function loadGamesAndRender() {
   }
 }
 
+// ==================== Site title ====================
+
+// Clicking the "Board Game Picker" title reloads the page, resetting everything.
+function initializeSiteTitleReload() {
+  document.getElementById(ELEMENT_ID.SITE_TITLE_LINK).addEventListener('click', (clickEvent) => {
+    clickEvent.preventDefault();
+    window.location.reload();
+  });
+}
+
 // ==================== Bootstrap ====================
 
 function initializeComponents() {
@@ -69,6 +80,7 @@ function initializeComponents() {
   initializeActiveFilters(componentOptions);
   initializeSearchBubble(componentOptions);
   initializeBackToTopButton();
+  initializeSiteTitleReload();
 
   return { openFilterDrawer };
 }

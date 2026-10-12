@@ -241,6 +241,7 @@ export const ELEMENT_ID = Object.freeze({
   FILTER_BACKDROP: 'filterBackdrop',
   CLOSE_FILTER_BUTTON: 'closeFilterBtn',
   CLEAR_FILTERS_BUTTON: 'drawerClearBtn',
+  SITE_TITLE_LINK: 'siteTitleLink',
   APPLY_FILTERS_BUTTON: 'drawerApplyBtn',
   EXACT_MATCH_SWITCH: 'exactMatchSwitch',
 
