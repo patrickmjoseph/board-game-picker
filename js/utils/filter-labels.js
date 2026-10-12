@@ -4,13 +4,13 @@
  */
 
 import {
+  DIFFICULTY_BUCKET_WORDS,
   LENGTH_BUCKETS,
   MULTIPLE_PLAYERS_READOUT_SUFFIX,
   PLAY_STYLE_FILTER_LABELS,
   SINGLE_PLAYER_READOUT_SUFFIX,
   SIX_PLUS_PLAYERS_OPTION_VALUE,
 } from '../constants.js';
-import { getWeightWord } from './difficulty.js';
 
 const LABEL_SEPARATOR = ', ';
 
@@ -24,7 +24,7 @@ export function formatPlayerCountList(selectedPlayerCounts) {
 
 export function formatDifficultyList(selectedDifficultyValues) {
   return selectedDifficultyValues
-    .map((difficultyValue) => getWeightWord(parseInt(difficultyValue, 10)))
+    .map((difficultyValue) => DIFFICULTY_BUCKET_WORDS[parseInt(difficultyValue, 10)])
     .join(LABEL_SEPARATOR);
 }
 
