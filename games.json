@@ -6,8 +6,8 @@
     "minPlayers": 2,
     "maxPlayers": 7,
     "length": 30,
-    "weight": 2.3146,
-    "rating": 7.65919,
+    "weight": 2.3147,
+    "rating": 7.65918,
     "bestPlayers": [
       4,
       5
@@ -48,7 +48,7 @@
     "maxPlayers": 2,
     "length": 30,
     "weight": 2.226,
-    "rating": 8.07358,
+    "rating": 8.07352,
     "bestPlayers": [
       2,
       2
@@ -90,7 +90,7 @@
     "maxPlayers": 6,
     "length": 90,
     "weight": 2.4863,
-    "rating": 7.35734,
+    "rating": 7.3573,
     "bestPlayers": [
       4
     ],
@@ -125,14 +125,14 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.9558,
-    "rating": 8.0019,
+    "rating": 8.00269,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/i3YeleJsNmnvcKdwgW3TKA__small/img/PnqlbLRuC-3OB7dWtElkQkhLdxg=/fit-in/200x150/filters:strip_icc()/pic8030666.jpg",
     "type": "comp",
     "description": "In Ada's Dream, work with Ada Lovelace to help build the first computer, fulfilling her dream in this alternate history Euro Game. In the summer of 1843, Ada Lovelace wrote to her friend Charles Babbage asking him to…",
-    "rank": 1732,
+    "rank": 1729,
     "mechanics": [
       "Dice Rolling",
       "Hand Management",
@@ -187,7 +187,7 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2.9583,
-    "rating": 7.65754,
+    "rating": 7.65675,
     "bestPlayers": [
       4,
       5
@@ -195,7 +195,7 @@
     "thumbnail": "https://cf.geekdo-images.com/lOAQZiOPkdU2Zd4j1XykMw__small/img/MC2sghIhtPhv9ze4WuPu2o3ll30=/fit-in/200x150/filters:strip_icc()/pic7614397.jpg",
     "type": "comp",
     "description": "Age of Rail: South Africa, title #4 in the \"Iron Rail\" series by Capstone Games, is a new version of 2011's South African Railroads, which was an extensive re-development of Pampas Railroads' sister game, Veld…",
-    "rank": 3442,
+    "rank": 3443,
     "mechanics": [
       "Action Drafting",
       "Alliances",
@@ -217,14 +217,14 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.3333,
-    "rating": 7.22114,
+    "rating": 7.22149,
     "bestPlayers": [
       6
     ],
     "thumbnail": "https://cf.geekdo-images.com/q5-3hPj2OEQhN16hqisoyg__small/img/Jl_vjuGtXqEeWXAmWhrLwvBxJ7c=/fit-in/200x150/filters:strip_icc()/pic8600231.jpg",
     "type": "comp",
     "description": "Whodunnit? In Alibis, a suspicious lineup of supervillains lies before you and your team, and you’re tasked with finding the true criminal. To start the game, you’re secretly given information about two innocent…",
-    "rank": 3264,
+    "rank": 3254,
     "mechanics": [
       "Cooperative Game",
       "Deduction",
@@ -244,7 +244,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.5644,
-    "rating": 7.33516,
+    "rating": 7.33512,
     "bestPlayers": [
       3,
       4
@@ -273,7 +273,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.9723,
-    "rating": 7.4299,
+    "rating": 7.42991,
     "bestPlayers": [
       4
     ],
@@ -306,7 +306,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.9942,
-    "rating": 8.03403,
+    "rating": 8.03385,
     "bestPlayers": [
       3
     ],
@@ -340,10 +340,10 @@
     "name": "Andromeda's Edge",
     "year": 2024,
     "minPlayers": 2,
-    "maxPlayers": 4,
+    "maxPlayers": 5,
     "length": 160,
     "weight": 3.7407,
-    "rating": 8.22937,
+    "rating": 8.22931,
     "bestPlayers": [
       3
     ],
@@ -379,7 +379,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.1292,
-    "rating": 7.68883,
+    "rating": 7.68908,
     "bestPlayers": [
       3
     ],
@@ -424,8 +424,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 90,
-    "weight": 3.7143,
-    "rating": 7.79523,
+    "weight": 3.7075,
+    "rating": 7.79777,
     "bestPlayers": [
       1,
       3,
@@ -434,7 +434,7 @@
     "thumbnail": "https://cf.geekdo-images.com/lyKT3v-P7CmjfbULo6TRzg__small/img/_7qi1Hv4UZWsCmG7ZgsygQjEOjE=/fit-in/200x150/filters:strip_icc()/pic9497677.jpg",
     "type": "comp",
     "description": "ANTS is a deep strategy game that focuses on worker management and territorial expansion. Each player begins with one of multiple unique Queen tiles, which will heavily influence your strategy and interaction with the…",
-    "rank": 1700,
+    "rank": 1694,
     "mechanics": [
       "End Game Bonuses",
       "Hand Management",
@@ -460,7 +460,7 @@
     "maxPlayers": 5,
     "length": 90,
     "weight": 3.0217,
-    "rating": 7.64395,
+    "rating": 7.64381,
     "bestPlayers": [
       3,
       5
@@ -500,7 +500,7 @@
     "thumbnail": "https://cf.geekdo-images.com/JyJ-FixOIyxKW0nEQMxNGw__small/img/VcBeYwkbb3Ha8sMbDzpEHBaeHLA=/fit-in/200x150/filters:strip_icc()/pic8927686.png",
     "type": "comp",
     "description": "In Aqua Garden, you're the owner of an aquarium and want to stock its six tanks with a variety of sea life, but you have a limited amount of funds and only one employee on hand to place the fish in the tanks. Do your…",
-    "rank": 2517,
+    "rank": 2518,
     "mechanics": [
       "Set Collection",
       "Turn Order: Time Track"
@@ -518,7 +518,7 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 3.6944,
-    "rating": 7.51229,
+    "rating": 7.51208,
     "bestPlayers": [
       2,
       3
@@ -526,7 +526,7 @@
     "thumbnail": "https://cf.geekdo-images.com/KHT8Ex0wvRs5wAWPNo3xNg__small/img/3RNpeYrdE_ns9Q9MEJgjks73ESg=/fit-in/200x150/filters:strip_icc()/pic7230067.png",
     "type": "comp",
     "description": "Welcome to the world of Arborea. You are a Patron Spirit, guiding your villagers to heal and grow the landscape around them by sending them on pilgrimages and building your personal Ecosystem. Arborea is a worker…",
-    "rank": 1341,
+    "rank": 1340,
     "mechanics": [
       "Bias",
       "End Game Bonuses",
@@ -550,7 +550,7 @@
     "maxPlayers": 5,
     "length": 80,
     "weight": 2.7617,
-    "rating": 7.7013,
+    "rating": 7.70131,
     "bestPlayers": [
       4
     ],
@@ -588,8 +588,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 150,
-    "weight": 3.7975,
-    "rating": 8.53874,
+    "weight": 3.7976,
+    "rating": 8.53886,
     "bestPlayers": [
       2
     ],
@@ -638,7 +638,7 @@
     "thumbnail": "https://cf.geekdo-images.com/KnXlq6lwaEa64BOdjqc-IA__small/img/Z9DmbNex_UWk0PI-gakcpEAAcD0=/fit-in/200x150/filters:strip_icc()/pic4226421.jpg",
     "type": "coop",
     "description": "Europa, Jupiter's moon. Deep beneath the crust, the oceans are teeming with alien sea life. Shellfish, plants, corals, arthropods, even strange fish and larger sea creatures populate a wide-ranging interconnected web of…",
-    "rank": 1714,
+    "rank": 1715,
     "mechanics": [
       "Auction / Bidding",
       "Dice Rolling",
@@ -669,7 +669,7 @@
     "thumbnail": "https://cf.geekdo-images.com/nMZ92-P3tE3PeLjTbYiuLQ__small/img/7dJhYksInff5hoYBEpObfCU4BlE=/fit-in/200x150/filters:strip_icc()/pic9513886.png",
     "type": "comp",
     "description": "Assemble! is a fast-paced, team-building card game where players take on the role of a strategist assembling the ultimate team of heroes inspired by classic archetypes across fandom. From fearless leaders to brilliant…",
-    "rank": 23768,
+    "rank": 23777,
     "mechanics": [
       "Hand Management",
       "Open Drafting",
@@ -691,14 +691,14 @@
     "maxPlayers": 4,
     "length": 45,
     "weight": 2.0476,
-    "rating": 6.93215,
+    "rating": 6.9312,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/1MRtI2kpEGUanQQ246p-nw__small/img/s2g-SiVESSnC1qt_GGTgTkf2c5U=/fit-in/200x150/filters:strip_icc()/pic7439092.jpg",
     "type": "comp",
     "description": "After years of experimentation in your shared laboratory, you and your fellow alchemists have just successfully transmuted common metals into gold! Now all that's left is to perfect the formula, repeating the…",
-    "rank": 3805,
+    "rank": 3806,
     "mechanics": [
       "Auction / Bidding",
       "Team-Based Game",
@@ -716,14 +716,14 @@
     "maxPlayers": 4,
     "length": 150,
     "weight": 3.814,
-    "rating": 7.02414,
+    "rating": 7.02433,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/rEHUfF9UeA6lY6EvRLgBIg__small/img/bC-yDhhzNaeqjPdV9PHBocfUpK0=/fit-in/200x150/filters:strip_icc()/pic6447828.jpg",
     "type": "comp",
     "description": "Autobahn is an economic strategy game about the building of the German motorway system over three periods of time spanning from the end of World War II to the present day. At the end of the second period (in 1990), the…",
-    "rank": 2300,
+    "rank": 2295,
     "mechanics": [
       "Hand Management",
       "Network and Route Building",
@@ -745,7 +745,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.2462,
-    "rating": 7.86297,
+    "rating": 7.86377,
     "bestPlayers": [
       3,
       4
@@ -778,7 +778,7 @@
     "maxPlayers": 4,
     "length": 45,
     "weight": 1.774,
-    "rating": 7.71051,
+    "rating": 7.71046,
     "bestPlayers": [
       2
     ],
@@ -809,14 +809,14 @@
     "maxPlayers": 2,
     "length": 20,
     "weight": 2,
-    "rating": 7.29603,
+    "rating": 7.29728,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/3HmXvFBVX75UUhIvoiG7nQ__small/img/D83nSVU_83f4GgzlnhaE0niwd1k=/fit-in/200x150/filters:strip_icc()/pic9089680.png",
     "type": "comp",
     "description": "The Lung Mei, or dragon paths, are lines of energy that cover the Earth. They are derived from the Four Auspicious Beasts: the Azure Dragon of the East, the Vermilion Bird of the South, the White Tiger of the West, and…",
-    "rank": 4527,
+    "rank": 4518,
     "mechanics": [
       "Area Majority / Influence",
       "Hand Management",
@@ -839,7 +839,7 @@
     "maxPlayers": 8,
     "length": 15,
     "weight": 1.289,
-    "rating": 6.43143,
+    "rating": 6.43119,
     "bestPlayers": [
       3,
       4,
@@ -899,7 +899,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.364,
-    "rating": 7.70782,
+    "rating": 7.70794,
     "bestPlayers": [
       3
     ],
@@ -923,8 +923,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 180,
-    "weight": 4.1155,
-    "rating": 8.13154,
+    "weight": 4.1146,
+    "rating": 8.13161,
     "bestPlayers": [
       4
     ],
@@ -965,7 +965,7 @@
     "thumbnail": "https://cf.geekdo-images.com/tuYBIwOlDCNMojpAeGhGFw__small/img/MlnavCuzTVctSgAbGNlMqAAYyCE=/fit-in/200x150/filters:strip_icc()/pic2180912.jpg",
     "type": "comp",
     "description": "Attack & defend to sink the enemy fleet! Find and sink your opponent's ships before they sink yours. Use shields to protect your fleet and special Power cards to improve your strategy. This is the \"lite\" version of the…",
-    "rank": 30322,
+    "rank": 30330,
     "mechanics": [
       "Hand Management"
     ],
@@ -982,7 +982,7 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2.3509,
-    "rating": 7.27189,
+    "rating": 7.27154,
     "bestPlayers": [
       5
     ],
@@ -1015,7 +1015,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.1546,
-    "rating": 7.85905,
+    "rating": 7.85872,
     "bestPlayers": [
       3
     ],
@@ -1075,7 +1075,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.7652,
-    "rating": 7.76529,
+    "rating": 7.76532,
     "bestPlayers": [
       3,
       4
@@ -1108,8 +1108,8 @@
     "minPlayers": 6,
     "maxPlayers": 21,
     "length": 120,
-    "weight": 3.0156,
-    "rating": 8.32638,
+    "weight": 3.0155,
+    "rating": 8.32537,
     "bestPlayers": [
       1,
       9,
@@ -1149,7 +1149,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.8821,
-    "rating": 7.89068,
+    "rating": 7.89052,
     "bestPlayers": [
       4
     ],
@@ -1187,7 +1187,7 @@
     "maxPlayers": 4,
     "length": 45,
     "weight": 2.0402,
-    "rating": 7.20079,
+    "rating": 7.20106,
     "bestPlayers": [
       4
     ],
@@ -1217,7 +1217,7 @@
     "maxPlayers": 7,
     "length": 45,
     "weight": 1.6657,
-    "rating": 7.08379,
+    "rating": 7.08386,
     "bestPlayers": [
       4,
       5
@@ -1248,7 +1248,7 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 2.0102,
-    "rating": 8.02763,
+    "rating": 8.0272,
     "bestPlayers": [
       1,
       4
@@ -1279,7 +1279,7 @@
     "maxPlayers": 4,
     "length": 100,
     "weight": 3.6373,
-    "rating": 7.59076,
+    "rating": 7.5908,
     "bestPlayers": [
       3
     ],
@@ -1308,7 +1308,7 @@
     "maxPlayers": 4,
     "length": 160,
     "weight": 3.8013,
-    "rating": 7.59606,
+    "rating": 7.59591,
     "bestPlayers": [
       3
     ],
@@ -1347,7 +1347,7 @@
     "maxPlayers": 2,
     "length": 30,
     "weight": 1.3565,
-    "rating": 7.02968,
+    "rating": 7.02967,
     "bestPlayers": [
       2
     ],
@@ -1375,8 +1375,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.8601,
-    "rating": 8.55847,
+    "weight": 3.8602,
+    "rating": 8.55848,
     "bestPlayers": [
       3,
       4
@@ -1419,7 +1419,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.7209,
-    "rating": 7.49247,
+    "rating": 7.49575,
     "bestPlayers": [
       1,
       4,
@@ -1428,7 +1428,7 @@
     "thumbnail": "https://cf.geekdo-images.com/cIlF4DxfLAtLUr6ZE-AYKA__small/img/B0r1VVhClhpwxoK_jtSL8u7nlhY=/fit-in/200x150/filters:strip_icc()/pic9503415.png",
     "type": "comp",
     "description": "From Roxley and Gavan Brown, co-designer of Brass: Birmingham, comes Brass: Pittsburgh, which allows you to re-experience the explosive late 19th-century industrial boom of America's Gilded Age in its northeastern…",
-    "rank": 5111,
+    "rank": 5113,
     "mechanics": [
       "Chaining",
       "Hand Management",
@@ -1493,7 +1493,7 @@
     "maxPlayers": 8,
     "length": 15,
     "weight": 1.25,
-    "rating": 6.66054,
+    "rating": 6.65782,
     "bestPlayers": [
       4,
       6
@@ -1501,7 +1501,7 @@
     "thumbnail": "https://cf.geekdo-images.com/CZKKeMBDeyPCRvFmOKsqKQ__small/img/JzxeNsSqDDQSrhWVdzxmfFX-wV4=/fit-in/200x150/filters:strip_icc()/pic9048844.png",
     "type": "teams",
     "description": "In Brick Like This!, players compete in teams to complete LEGO models as quickly as possible, with one teammate describing the model to another teammate who builds it. In Brick Like This!, teams of two, one Instructor…",
-    "rank": 5958,
+    "rank": 5964,
     "mechanics": [
       "Communication Limits",
       "Pattern Building",
@@ -1522,7 +1522,7 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 2.7534,
-    "rating": 7.4233,
+    "rating": 7.42355,
     "bestPlayers": [
       3,
       4
@@ -1530,7 +1530,7 @@
     "thumbnail": "https://cf.geekdo-images.com/A8JeebUT3mu4zUmYs9clDQ__small/img/0O-Yp8KcLpb_lUXGm3AgymPJKos=/fit-in/200x150/filters:strip_icc()/pic1652004.jpg",
     "type": "comp",
     "description": "Bruges in the 15th century – culture and commerce flourish and make the Belgian Hanseatic city into one of the wealthiest cities in Europe. In Bruges (a.k.a. Brugge or Br&uuml;gge depending on the country in which you…",
-    "rank": 400,
+    "rank": 399,
     "mechanics": [
       "Dice Rolling",
       "Hand Management",
@@ -1551,7 +1551,7 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 3.3191,
-    "rating": 7.9002,
+    "rating": 7.90098,
     "bestPlayers": [
       4
     ],
@@ -1609,7 +1609,7 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 1.4051,
-    "rating": 7.08614,
+    "rating": 7.08576,
     "bestPlayers": [
       1,
       4
@@ -1617,7 +1617,7 @@
     "thumbnail": "https://cf.geekdo-images.com/xm0CoWYr8kO0EaqlaVdVWQ__small/img/E1D7epB_ncyR4hbcToN_ZoaT5Dc=/fit-in/200x150/filters:strip_icc()/pic754318.jpg",
     "type": "comp",
     "description": "In Cabo, the goal is to minimize the total value of your cards; however, you don't know what all your cards are at the beginning of the game. By using certain cards to peek at your own card, spy on your opponent's card,…",
-    "rank": 1807,
+    "rank": 1808,
     "mechanics": [
       "Hand Management",
       "Memory"
@@ -1634,7 +1634,7 @@
     "maxPlayers": 5,
     "length": 75,
     "weight": 2.8173,
-    "rating": 7.317,
+    "rating": 7.3173,
     "bestPlayers": [
       4
     ],
@@ -1666,7 +1666,7 @@
     "maxPlayers": 8,
     "length": 45,
     "weight": 1.51,
-    "rating": 7.52914,
+    "rating": 7.52878,
     "bestPlayers": [
       5,
       6
@@ -1697,7 +1697,7 @@
     "maxPlayers": 4,
     "length": 30,
     "weight": 1.142,
-    "rating": 6.95254,
+    "rating": 6.95235,
     "bestPlayers": [
       3
     ],
@@ -1725,14 +1725,14 @@
     "maxPlayers": 5,
     "length": 20,
     "weight": 1.2096,
-    "rating": 7.15478,
+    "rating": 7.15528,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__small/img/SzzzJKDO1wvj9YWfCg-mOnjC_lQ=/fit-in/200x150/filters:strip_icc()/pic7784394.png",
     "type": "comp",
     "description": "Ahoy, Captain! Hoist your flag, recruit a crew, and fill your coffers with shiny, gold coins. Captain Flip is a game of obvious simplicity explained in less time than a cannonball shot. On your turn, draw a tile from…",
-    "rank": 860,
+    "rank": 859,
     "mechanics": [
       "Advantage Token",
       "End Game Bonuses",
@@ -1763,7 +1763,7 @@
     "thumbnail": "https://cf.geekdo-images.com/8Pm4BavHvdYDZO9iI_TnIw__small/img/tXFtKAb7O4Z2X617p3lgTE6rjUA=/fit-in/200x150/filters:strip_icc()/pic5512196.png",
     "type": "teams",
     "description": "Carrom is most easily described as \"finger pool\". On a 29\" x 29\" wooden board, players flick a large weighted disc (the striker) at smaller wooden discs (the carrom-men). The goal is to sink your 9 carrom-men (black or…",
-    "rank": 2172,
+    "rank": 2173,
     "mechanics": [
       "Flicking",
       "Team-Based Game"
@@ -1780,7 +1780,7 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 2.56,
-    "rating": 7.2628,
+    "rating": 7.26282,
     "bestPlayers": [
       3,
       4
@@ -1788,7 +1788,7 @@
     "thumbnail": "https://cf.geekdo-images.com/yQDaiaHhxRRLA27gFoMO1Q__small/img/ihEiZUScwJaM7CWCjkZw8pg_Zaw=/fit-in/200x150/filters:strip_icc()/pic7732734.jpg",
     "type": "comp",
     "description": "The kingdom is shattered, its towns are divided, and its people are distrusting. The newly crowned ruler, El Cascadero, seeks to reunite the land, but he can’t do it alone. Thus, he appoints four ministers to visit the…",
-    "rank": 1838,
+    "rank": 1842,
     "mechanics": [
       "Chaining",
       "Connections",
@@ -1809,8 +1809,8 @@
     "minPlayers": 2,
     "maxPlayers": 5,
     "length": 25,
-    "weight": 1.7361,
-    "rating": 7.67517,
+    "weight": 1.7367,
+    "rating": 7.67489,
     "bestPlayers": [
       2
     ],
@@ -1837,8 +1837,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 90,
-    "weight": 2.9699,
-    "rating": 8.16311,
+    "weight": 2.9696,
+    "rating": 8.16324,
     "bestPlayers": [
       2
     ],
@@ -1855,7 +1855,6 @@
       "Open Drafting",
       "Pattern Building",
       "Tile Placement",
-      "Track Movement",
       "Turn Order: Stat-Based",
       "Variable Set-up",
       "Worker Placement with Dice Workers"
@@ -1874,7 +1873,7 @@
     "maxPlayers": 5,
     "length": 40,
     "weight": 2.0524,
-    "rating": 7.42282,
+    "rating": 7.42261,
     "bestPlayers": [
       4
     ],
@@ -1908,7 +1907,7 @@
     "thumbnail": "https://cf.geekdo-images.com/tnx6ExxyUmIlga9tFSrR6g__small/img/jHvb__-N4QCSB8rhTKXzCxWOWcU=/fit-in/200x150/filters:strip_icc()/pic3864115.jpg",
     "type": "comp",
     "description": "In Cat Lady, players are cat ladies, part of an elite group of people including Marie Antoinette and Ernest Hemingway. During the game, you and your fellow cat ladies will draft cards three at a time, collecting toys,…",
-    "rank": 1218,
+    "rank": 1219,
     "mechanics": [
       "Open Drafting",
       "Set Collection"
@@ -1926,8 +1925,8 @@
     "minPlayers": 3,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 2.2799,
-    "rating": 7.09004,
+    "weight": 2.2798,
+    "rating": 7.08992,
     "bestPlayers": [
       4
     ],
@@ -1993,7 +1992,7 @@
     "maxPlayers": 4,
     "length": 180,
     "weight": 3.25,
-    "rating": 8.09222,
+    "rating": 8.09121,
     "bestPlayers": [
       2,
       4
@@ -2001,7 +2000,7 @@
     "thumbnail": "https://cf.geekdo-images.com/7AANJ4ssEgNyG-OvlyvYYw__small/img/pbn4AeEizrcxKaJF1jVhBe9ZWbA=/fit-in/200x150/filters:strip_icc()/pic8088960.jpg",
     "type": "comp",
     "description": "Chicago '68 pits revolutionary spectacle against civil order at the Democratic National Convention riots of 1968. Players take the role of either the Establishment or the Demonstrators in this fast-paced game of street…",
-    "rank": 10977,
+    "rank": 10979,
     "mechanics": [
       "Action / Event",
       "Area Majority / Influence",
@@ -2022,7 +2021,7 @@
     "maxPlayers": 6,
     "length": 30,
     "weight": 1.0773,
-    "rating": 2.94833,
+    "rating": 2.94797,
     "bestPlayers": [
       1,
       4
@@ -2030,7 +2029,7 @@
     "thumbnail": "https://cf.geekdo-images.com/5V8_ghnJpj0X93ypXch1mQ__small/img/s3nJsf90cI8aO5I5HGswMMOZHHo=/fit-in/200x150/filters:strip_icc()/pic8203150.jpg",
     "type": "comp",
     "description": "Traditional game from ancient India was brought to the UK in 1892 and first commercially published in the USA by Milton Bradley in 1943 (as Chutes and Ladders). Players travel along the squares sometimes using ladders,…",
-    "rank": 31489,
+    "rank": 31498,
     "mechanics": [
       "Events",
       "Lose a Turn",
@@ -2053,7 +2052,7 @@
     "maxPlayers": 8,
     "length": 60,
     "weight": 2.0496,
-    "rating": 7.22506,
+    "rating": 7.22494,
     "bestPlayers": [
       5,
       6
@@ -2120,7 +2119,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.2778,
-    "rating": 7.41485,
+    "rating": 7.41477,
     "bestPlayers": [
       3,
       4
@@ -2153,7 +2152,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.6026,
-    "rating": 7.65889,
+    "rating": 7.65842,
     "bestPlayers": [
       1,
       2,
@@ -2184,7 +2183,7 @@
     "maxPlayers": 4,
     "length": 180,
     "weight": 4.2682,
-    "rating": 8.16948,
+    "rating": 8.1699,
     "bestPlayers": [
       2,
       3
@@ -2252,7 +2251,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.4664,
-    "rating": 7.94192,
+    "rating": 7.94188,
     "bestPlayers": [
       4,
       4
@@ -2287,7 +2286,7 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.0956,
-    "rating": 6.79699,
+    "rating": 6.797,
     "bestPlayers": [
       5
     ],
@@ -2313,8 +2312,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 25,
-    "weight": 2.5,
-    "rating": 8.22013,
+    "weight": 2.6,
+    "rating": 8.21516,
     "bestPlayers": [
       2,
       4
@@ -2322,7 +2321,7 @@
     "thumbnail": "https://cf.geekdo-images.com/TZBC8xrO8CoL1wZLrvnusA__small/img/3CMqEdgJJpc5prg8eGM_w2Ovios=/fit-in/200x150/filters:strip_icc()/pic9658208.jpg",
     "type": "coop",
     "description": "Enter the world of Exandria, a land of infinite wonder and unexpected champions, and experience the Critical Role adventures through Codenames. Assemble a party of heroes from the first three Critical Role campaigns,…",
-    "rank": 7246,
+    "rank": 7145,
     "mechanics": [
       "Communication Limits",
       "Cooperative Game",
@@ -2346,7 +2345,7 @@
     "maxPlayers": 8,
     "length": 15,
     "weight": 1.2339,
-    "rating": 7.17298,
+    "rating": 7.17296,
     "bestPlayers": [
       6
     ],
@@ -2374,7 +2373,7 @@
     "maxPlayers": 5,
     "length": 150,
     "weight": 4.2719,
-    "rating": 7.66779,
+    "rating": 7.66791,
     "bestPlayers": [
       4,
       5
@@ -2382,7 +2381,7 @@
     "thumbnail": "https://cf.geekdo-images.com/eZnNedTbtlSsll-f7b_U6w__small/img/tEihieHQ9V198jSDsmBIXu2K-NA=/fit-in/200x150/filters:strip_icc()/pic5801984.jpg",
     "type": "comp",
     "description": "Thousands of coffee farmers all over the world support their families by using small stretches of hillside land for their coffee plantations. Farmers work day in and day out for very little, but the future of coffee…",
-    "rank": 1106,
+    "rank": 1105,
     "mechanics": [
       "Action Points",
       "Area Majority / Influence",
@@ -2404,7 +2403,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.2425,
-    "rating": 7.59083,
+    "rating": 7.59085,
     "bestPlayers": [
       3
     ],
@@ -2447,7 +2446,7 @@
     "thumbnail": "https://cf.geekdo-images.com/T8ZyGekIgq12Isq7BzgT-Q__small/img/p1iYmAZu3pTjCDb8SPoZHXJGbYk=/fit-in/200x150/filters:strip_icc()/pic7655631.jpg",
     "type": "comp",
     "description": "Come Sail Away! is a board game for 1-4 players in which you compete to board passengers upon your luxury liner, bringing them to their favorite cabins and facilities. Players can enjoy a deliciously thoughtful and…",
-    "rank": 1102,
+    "rank": 1103,
     "mechanics": [
       "Closed Drafting",
       "Mancala",
@@ -2468,7 +2467,7 @@
     "maxPlayers": 5,
     "length": 100,
     "weight": 2.9839,
-    "rating": 8.07389,
+    "rating": 8.07396,
     "bestPlayers": [
       4
     ],
@@ -2506,7 +2505,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 4.1672,
-    "rating": 7.54451,
+    "rating": 7.54439,
     "bestPlayers": [
       3,
       4
@@ -2536,7 +2535,7 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 1.3028,
-    "rating": 7.2617,
+    "rating": 7.26171,
     "bestPlayers": [
       4
     ],
@@ -2562,7 +2561,7 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.8421,
-    "rating": 6.78701,
+    "rating": 6.78722,
     "bestPlayers": [
       3,
       4
@@ -2570,7 +2569,7 @@
     "thumbnail": "https://cf.geekdo-images.com/WqOnkBmZQPrP_ad6Q38q1A__small/img/Uv1Aw8FLleLmI8pI0ZxhgNOWmT0=/fit-in/200x150/filters:strip_icc()/pic7266992.png",
     "type": "comp",
     "description": "Take on the role of a fashion model as you hit the runways in New York, Paris, and Tokyo to build your career. In Couture, players seek to win cards through auctions in New York, Paris, and Tokyo. New cards are…",
-    "rank": 4094,
+    "rank": 4088,
     "mechanics": [
       "End Game Bonuses",
       "Hand Management",
@@ -2588,7 +2587,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.2944,
-    "rating": 7.08197,
+    "rating": 7.08212,
     "bestPlayers": [
       4
     ],
@@ -2622,7 +2621,7 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 2.1667,
-    "rating": 7.35493,
+    "rating": 7.35503,
     "bestPlayers": [
       3,
       4,
@@ -2631,7 +2630,7 @@
     "thumbnail": "https://cf.geekdo-images.com/_WY_JrQQRrSUlVof11hMpQ__small/img/YBgLAPTM5xOW3fDj_if3-r3oDs0=/fit-in/200x150/filters:strip_icc()/pic5226311.png",
     "type": "comp",
     "description": "Be fast or be last! In Cubitos, players take on the role of participants in the annual Cube Cup, a race of strategy and luck to determine the Cubitos Champion. Each player has a runner on the racetrack and a support…",
-    "rank": 521,
+    "rank": 520,
     "mechanics": [
       "Catch the Leader",
       "Deck, Bag, and Pool Building",
@@ -2658,7 +2657,7 @@
     "maxPlayers": 6,
     "length": 90,
     "weight": 2.8208,
-    "rating": 8.10124,
+    "rating": 8.10021,
     "bestPlayers": [
       4,
       5
@@ -2697,7 +2696,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.959,
-    "rating": 7.45336,
+    "rating": 7.45283,
     "bestPlayers": [
       3,
       4
@@ -2705,7 +2704,7 @@
     "thumbnail": "https://cf.geekdo-images.com/RCQf2kr9tPW3RrrZj-9lvA__small/img/--Lgerr-HDIhLb7kxrNWV2HLnGY=/fit-in/200x150/filters:strip_icc()/pic7774194.jpg",
     "type": "comp",
     "description": "We have finally perfected the power of steam, and we can now use it to our advantage! We live in an unprecedented era of progress, and new steam-powered inventions are developed faster than ever. Cities are growing,…",
-    "rank": 1976,
+    "rank": 1975,
     "mechanics": [
       "Follow",
       "Modular Board",
@@ -2726,7 +2725,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.8889,
-    "rating": 8.54805,
+    "rating": 8.54859,
     "bestPlayers": [
       3
     ],
@@ -2752,7 +2751,7 @@
     "maxPlayers": 12,
     "length": 20,
     "weight": 1.595,
-    "rating": 7.41477,
+    "rating": 7.41466,
     "bestPlayers": [
       6,
       7,
@@ -2819,7 +2818,7 @@
     "maxPlayers": 6,
     "length": 30,
     "weight": 1.1857,
-    "rating": 6.85778,
+    "rating": 6.85774,
     "bestPlayers": [
       4,
       6
@@ -2849,8 +2848,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 40,
-    "weight": 2.1,
-    "rating": 7.4025,
+    "weight": 2.0986,
+    "rating": 7.40287,
     "bestPlayers": [
       3
     ],
@@ -2910,7 +2909,7 @@
     "thumbnail": "https://cf.geekdo-images.com/6fgoKqdjn4JBfgVykPr6wA__small/img/AasZiDHeaRZtlVi0tN7lDML-lmk=/fit-in/200x150/filters:strip_icc()/pic2602443.jpg",
     "type": "comp",
     "description": "Planet earth is overpopulated but recent technological developments open new possibilities – whole cities hovering high in the skies. The first sky city was planned and named Dilluvia Project. Will it succeed, will it…",
-    "rank": 4321,
+    "rank": 4322,
     "mechanics": [
       "Tile Placement",
       "Worker Placement"
@@ -2928,15 +2927,15 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 90,
-    "weight": 2.5,
-    "rating": 7.72756,
+    "weight": 2.4,
+    "rating": 7.74881,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/ua4aCOHG7HsN-NGcLa1Gjg__small/img/7MU56rA6yAxB6qlZJ3imxr566Fg=/fit-in/200x150/filters:strip_icc()/pic8929353.png",
     "type": "comp",
     "description": "Dino Garden is a euro-style board game where each player becomes the owner of a thrilling dinosaur park, aiming to create a dinosaur park that is uniquely their own. Dino Garden is a standalone title in the Aqua Garden…",
-    "rank": 11661,
+    "rank": 11485,
     "mechanics": [
       "Set Collection",
       "Turn Order: Time Track"
@@ -2954,14 +2953,14 @@
     "maxPlayers": 6,
     "length": 120,
     "weight": 2.4773,
-    "rating": 6.9018,
+    "rating": 6.90166,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/7Ej5V5Dq92QdvVFvISfl_A__small/img/8tU6KCVSI5dlcibYTT6mq3K9ljk=/fit-in/200x150/filters:strip_icc()/pic4216110.jpg",
     "type": "comp",
     "description": "In Villainous, each player takes control of one of six Disney characters, each one a villain in a different Disney movie. Each player has their own villain deck, fate deck, player board, and 3D character. On a turn, the…",
-    "rank": 977,
+    "rank": 976,
     "mechanics": [
       "Hand Management",
       "Take That",
@@ -2985,14 +2984,14 @@
     "maxPlayers": 5,
     "length": 20,
     "weight": 1.3472,
-    "rating": 7.24245,
+    "rating": 7.24233,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/mhNZFwA0kAS0gX2Tjh0pJw__small/img/tBPESzLWbnCadOhKaSlmtkL2Vlo=/fit-in/200x150/filters:strip_icc()/pic9490614.jpg",
     "type": "comp",
     "description": "Your goal in dnup is to empty your hand of cards. Each player starts with eight or ten cards in hand, with each card having different numbers (from 1-10) at top and bottom, e.g. 1 and 7. Pick up all your cards at once;…",
-    "rank": 1320,
+    "rank": 1317,
     "mechanics": [
       "Hand Management",
       "Ladder Climbing"
@@ -3008,8 +3007,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 2.6444,
-    "rating": 7.85209,
+    "weight": 2.6522,
+    "rating": 7.84877,
     "bestPlayers": [
       2,
       4
@@ -3017,7 +3016,7 @@
     "thumbnail": "https://cf.geekdo-images.com/Uz4rr8VRTss1PKSbxspV0Q__small/img/dsgH9yJYFydcwnyVSz4spJz0eIU=/fit-in/200x150/filters:strip_icc()/pic9628641.jpg",
     "type": "comp",
     "description": "In Drillers, players explore an abandoned mine using their mechs, trying to find and excavate anything useful or valuable left behind by a forgotten mining corporation. Each level of the mine brings new opportunities…",
-    "rank": 2434,
+    "rank": 2412,
     "mechanics": [
       "Area Majority / Influence",
       "Area Movement",
@@ -3044,7 +3043,7 @@
     "maxPlayers": 5,
     "length": 20,
     "weight": 1.0169,
-    "rating": 7.06238,
+    "rating": 7.06258,
     "bestPlayers": [
       4
     ],
@@ -3067,8 +3066,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.0795,
-    "rating": 8.40597,
+    "weight": 3.08,
+    "rating": 8.40592,
     "bestPlayers": [
       3,
       4
@@ -3109,7 +3108,7 @@
     "maxPlayers": 4,
     "length": 10,
     "weight": 1.1441,
-    "rating": 6.85072,
+    "rating": 6.85065,
     "bestPlayers": [
       4
     ],
@@ -3137,7 +3136,7 @@
     "maxPlayers": 4,
     "length": 15,
     "weight": 1.2556,
-    "rating": 6.81079,
+    "rating": 6.80998,
     "bestPlayers": [
       4
     ],
@@ -3165,7 +3164,7 @@
     "maxPlayers": 5,
     "length": 90,
     "weight": 2.9105,
-    "rating": 7.60974,
+    "rating": 7.60947,
     "bestPlayers": [
       2,
       3
@@ -3200,8 +3199,8 @@
     "minPlayers": 2,
     "maxPlayers": 6,
     "length": 200,
-    "weight": 3.6667,
-    "rating": 8.3787,
+    "weight": 3.6656,
+    "rating": 8.37914,
     "bestPlayers": [
       4,
       6
@@ -3250,7 +3249,7 @@
     "thumbnail": "https://cf.geekdo-images.com/qXaOwJYEiT2A9Tk1w4gl4w__small/img/UJx0De8ClaieB5j1z8NhOBUqcRY=/fit-in/200x150/filters:strip_icc()/pic8478398.png",
     "type": "comp",
     "description": "We are not alone! It is the 23rd century, and proof of alien life has finally been discovered beyond our solar system. In fact, recent developments in technology have triggered a cascade of discoveries throughout the…",
-    "rank": 4222,
+    "rank": 4224,
     "mechanics": [
       "Auction / Bidding",
       "Auction: Sealed Bid",
@@ -3281,8 +3280,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 150,
-    "weight": 3.6386,
-    "rating": 7.69591,
+    "weight": 3.631,
+    "rating": 7.69446,
     "bestPlayers": [
       2,
       3,
@@ -3291,7 +3290,7 @@
     "thumbnail": "https://cf.geekdo-images.com/N6_JQSyPBMT4U7PYO05ZRg__small/img/XLzvvPI2lLO_wPkafEv_0jAz8Mo=/fit-in/200x150/filters:strip_icc()/pic9357499.jpg",
     "type": "comp",
     "description": "For aeons, entropy was an inescapable force of nature. But then humanity evolved to understand it, harness it, and even bend it to their purpose. Your life has been devoted to learning how to shape the very workings of…",
-    "rank": 2979,
+    "rank": 2968,
     "mechanics": [
       "End Game Bonuses",
       "Multi-Use Cards",
@@ -3315,7 +3314,7 @@
     "maxPlayers": 4,
     "length": 40,
     "weight": 2.8478,
-    "rating": 8.19069,
+    "rating": 8.18667,
     "bestPlayers": [
       4
     ],
@@ -3347,7 +3346,7 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2.1084,
-    "rating": 7.45532,
+    "rating": 7.45513,
     "bestPlayers": [
       4
     ],
@@ -3374,7 +3373,7 @@
     "maxPlayers": 5,
     "length": 15,
     "weight": 1.0783,
-    "rating": 6.06915,
+    "rating": 6.06936,
     "bestPlayers": [
       4,
       5
@@ -3382,7 +3381,7 @@
     "thumbnail": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__small/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png",
     "type": "comp",
     "description": "Exploding Kittens is a kitty-powered version of Russian Roulette. Players take turns drawing cards until someone draws an exploding kitten and loses the game. The deck is made up of cards that let you avoid exploding by…",
-    "rank": 4059,
+    "rank": 4060,
     "mechanics": [
       "Hand Management",
       "Hot Potato",
@@ -3414,7 +3413,7 @@
     "thumbnail": "https://cf.geekdo-images.com/qxp_a1CTTwc8YH2KrllvCA__small/img/gg-o59s3kYzCdNo1hbB0HeKXo1U=/fit-in/200x150/filters:strip_icc()/pic8064162.png",
     "type": "coop",
     "description": "Embark on an emotional journey with Expressions, a cooperative card game for 2-5 players. Dive into the world of emotions as you decipher the hidden feelings in your friends' hands. Expressions features five…",
-    "rank": 6276,
+    "rank": 6277,
     "mechanics": [
       "Communication Limits",
       "Cooperative Game",
@@ -3434,7 +3433,7 @@
     "maxPlayers": 10,
     "length": 20,
     "weight": 1.0942,
-    "rating": 7.09638,
+    "rating": 7.09646,
     "bestPlayers": [
       6,
       7
@@ -3462,7 +3461,7 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.8213,
-    "rating": 7.49655,
+    "rating": 7.49646,
     "bestPlayers": [
       2,
       3
@@ -3498,7 +3497,7 @@
     "thumbnail": "https://cf.geekdo-images.com/M7qlLvY2z3a2pFjfAK4GAw__small/img/BD_dDxD0TPWcbNbrvyIWKnGERyg=/fit-in/200x150/filters:strip_icc()/pic8593669.jpg",
     "type": "comp",
     "description": "Farm Hand is a fun and engaging 21-card micro game for 1-5 players in 15-20 mins. A game that neatly fits in your pocket or purse and can be played almost anywhere. The game has 6 asymmetric suits ranging from 1 card…",
-    "rank": 5403,
+    "rank": 5405,
     "mechanics": [
       "Deduction",
       "Predictive Bid",
@@ -3519,7 +3518,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.8682,
-    "rating": 8.1609,
+    "rating": 8.16102,
     "bestPlayers": [
       3
     ],
@@ -3560,7 +3559,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.7529,
-    "rating": 7.81845,
+    "rating": 7.81839,
     "bestPlayers": [
       4,
       4
@@ -3590,14 +3589,14 @@
     "maxPlayers": 8,
     "length": 20,
     "weight": 1.7333,
-    "rating": 6.59969,
+    "rating": 6.60002,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/iGBMX7WcBvSOkeFQTb3YcQ__small/img/O_vWEL_O5QUoKrhBCpll1ConShs=/fit-in/200x150/filters:strip_icc()/pic7349980.png",
     "type": "teams",
     "description": "Fiction is a Wordle-inspired game of deception. One player is the Lie-brarian and will choose a secret word from a classic work of literature. The other players will, as a team, use logic and literacy to deduce the…",
-    "rank": 4747,
+    "rank": 4741,
     "mechanics": [
       "Spelling"
     ],
@@ -3622,7 +3621,7 @@
     "thumbnail": "https://cf.geekdo-images.com/LjqYcVKq6YrQ0rJ4H4Lusg__small/img/mzUGdFOVFxq6kJfm41QTRvnxQSw=/fit-in/200x150/filters:strip_icc()/pic8149442.png",
     "type": "comp",
     "description": "In Fishing, you try to catch as many tricks as possible over eight rounds, with each card you catch being worth 1 point. You then use your caught cards for the next round — and if you didn't catch enough tricks to fill…",
-    "rank": 1205,
+    "rank": 1206,
     "mechanics": [
       "Deck, Bag, and Pool Building",
       "Trick-taking"
@@ -3641,7 +3640,7 @@
     "maxPlayers": 4,
     "length": 80,
     "weight": 2.8378,
-    "rating": 7.76319,
+    "rating": 7.76313,
     "bestPlayers": [
       2
     ],
@@ -3679,7 +3678,7 @@
     "maxPlayers": 18,
     "length": 20,
     "weight": 1.0425,
-    "rating": 7.20015,
+    "rating": 7.19993,
     "bestPlayers": [
       5,
       6
@@ -3734,14 +3733,14 @@
     "maxPlayers": 6,
     "length": 30,
     "weight": 1.2489,
-    "rating": 7.26876,
+    "rating": 7.26857,
     "bestPlayers": [
       5
     ],
     "thumbnail": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__small/img/3cgW5aP-JJeKSpZMjA0NFheMnfY=/fit-in/200x150/filters:strip_icc()/pic1513085.jpg",
     "type": "comp",
     "description": "For Sale is a quick, fun game nominally about buying and selling real estate. During the game's two distinct phases, players first bid for several buildings then, after all buildings have been bought, sell the buildings…",
-    "rank": 357,
+    "rank": 358,
     "mechanics": [
       "Auction / Bidding",
       "Auction: Sealed Bid",
@@ -3761,15 +3760,15 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.2879,
-    "rating": 7.67098,
+    "weight": 3.2985,
+    "rating": 7.67177,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/G8QE3IbgF41q75PY4kC1nA__small/img/69pYEVOCWdrjpWuS18AkVpIdXrE=/fit-in/200x150/filters:strip_icc()/pic9060310.jpg",
     "type": "comp",
     "description": "In Forestry, players take on the role of forest stewards dedicated to sustainable forest management. The game challenges players to balance the demands of harvesting resources and fulfilling contracts with the need for…",
-    "rank": 2152,
+    "rank": 2144,
     "mechanics": [
       "Action Points",
       "Contracts",
@@ -3799,7 +3798,7 @@
     "thumbnail": "https://cf.geekdo-images.com/poXMN-mYIz2J6WV21m3Q7g__small/img/DIeVsVC5n2bL1M0wOCrdmScO3MU=/fit-in/200x150/filters:strip_icc()/pic9149601.jpg",
     "type": "coop",
     "description": "Fairy Tales come to life in this deluxe version of the beloved trick-taking game. Use special abilities to change the trump suit, lead even after losing a trick, and more. Aim for the majority of tricks each hand, but…",
-    "rank": 9265,
+    "rank": 9268,
     "mechanics": [
       "Hand Management",
       "Race",
@@ -3821,14 +3820,14 @@
     "maxPlayers": 10,
     "length": 10,
     "weight": 1.3333,
-    "rating": 6.87846,
+    "rating": 6.87873,
     "bestPlayers": [
       6
     ],
     "thumbnail": "https://cf.geekdo-images.com/NgY6zLy0EGdhfHdufrgxFQ__small/img/EeNA5aXqAF4MxQlrjT9eUc78R90=/fit-in/200x150/filters:strip_icc()/pic9202756.jpg",
     "type": "coop",
     "description": "In each game of French Toast, one player acts as the Toastmaster, drawing a Secret Word that you and your friends have to guess. The catch? The Toastmaster may only communicate by repeating your guesses back to you!…",
-    "rank": 6189,
+    "rank": 6179,
     "mechanics": [
       "Communication Limits",
       "Cooperative Game",
@@ -3853,8 +3852,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 150,
-    "weight": 4.4033,
-    "rating": 8.34571,
+    "weight": 4.4031,
+    "rating": 8.34575,
     "bestPlayers": [
       3,
       4
@@ -3893,7 +3892,7 @@
     "maxPlayers": 4,
     "length": 150,
     "weight": 3.9813,
-    "rating": 8.28308,
+    "rating": 8.28318,
     "bestPlayers": [
       3
     ],
@@ -3935,7 +3934,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.5,
-    "rating": 7.63226,
+    "rating": 7.6128,
     "bestPlayers": [
       3,
       4
@@ -3943,7 +3942,7 @@
     "thumbnail": "https://cf.geekdo-images.com/rxTaDS5kX4Bq27RYHtWg6A__small/img/TtmGjxNmQUDxA_tjf5RRJSEwLcs=/fit-in/200x150/filters:strip_icc()/pic9025953.png",
     "type": "comp",
     "description": "The year is 1610. The world, as we know it, is on the precipice of change, a fragile balance between ancient dogma and dawning reason. Whispers of a new truth echo through the hallowed halls of academia and across…",
-    "rank": 13653,
+    "rank": 13486,
     "mechanics": [
       "Closed Drafting",
       "Contracts",
@@ -3970,8 +3969,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 150,
-    "weight": 4.2101,
-    "rating": 7.99767,
+    "weight": 4.209,
+    "rating": 7.99761,
     "bestPlayers": [
       3,
       4
@@ -3979,7 +3978,7 @@
     "thumbnail": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__small/img/O0H84AvXp139U865gRLGiAo9-gA=/fit-in/200x150/filters:strip_icc()/pic2503200.png",
     "type": "comp",
     "description": "This age of art and capitalism has created a need for a new occupation - The Gallerist. Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote…",
-    "rank": 87,
+    "rank": 86,
     "mechanics": [
       "Commodity Speculation",
       "Contracts",
@@ -4005,7 +4004,7 @@
     "maxPlayers": 5,
     "length": 20,
     "weight": 1.2396,
-    "rating": 6.71176,
+    "rating": 6.71159,
     "bestPlayers": [
       3,
       4
@@ -4013,7 +4012,7 @@
     "thumbnail": "https://cf.geekdo-images.com/g4pn1ieUKfIhERl5Ym6joQ__small/img/IRLfNA-yFg0etLOeNFp7QKFsea4=/fit-in/200x150/filters:strip_icc()/pic4203279.png",
     "type": "coop",
     "description": "Players in The Game try to discard all 98 cards in the deck onto four discard piles in order to win, but they need to do so in the right ways. Each player starts with 6-8 cards in their hand depending on the number of…",
-    "rank": 1353,
+    "rank": 1354,
     "mechanics": [
       "Communication Limits",
       "Cooperative Game",
@@ -4032,8 +4031,8 @@
     "minPlayers": 3,
     "maxPlayers": 6,
     "length": 20,
-    "weight": 1.5842,
-    "rating": 7.54588,
+    "weight": 1.5812,
+    "rating": 7.54552,
     "bestPlayers": [
       5
     ],
@@ -4060,7 +4059,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 2.8981,
-    "rating": 7.47764,
+    "rating": 7.47775,
     "bestPlayers": [
       2,
       3
@@ -4068,7 +4067,7 @@
     "thumbnail": "https://cf.geekdo-images.com/2y2A4qcoGamLcYNLv8wb5A__small/img/U27Rs0NzKCs5s6V5CeA-fw5e4Lc=/fit-in/200x150/filters:strip_icc()/pic5975231.jpg",
     "type": "comp",
     "description": "2212: Ginkgo Biloba, the oldest and strongest tree in the world, has become the symbol of a new method for building cities in symbiosis with nature. Humans have exhausted the resources that the Earth offered them, and…",
-    "rank": 444,
+    "rank": 445,
     "mechanics": [
       "Area Majority / Influence",
       "Closed Drafting",
@@ -4098,7 +4097,7 @@
     "maxPlayers": 4,
     "length": 15,
     "weight": 1.3488,
-    "rating": 7.53479,
+    "rating": 7.53558,
     "bestPlayers": [
       2,
       3
@@ -4106,7 +4105,7 @@
     "thumbnail": "https://cf.geekdo-images.com/3mxe3Ur8M3sUxBSp1X5G5w__small/img/SUXNNUMo-uPXqbPBRa0CQf45tY8=/fit-in/200x150/filters:strip_icc()/pic9492414.png",
     "type": "comp",
     "description": "Got Five! is a game of logic and deduction in which players try to uncover the five hidden numbers placed on their stand. Each player can see everyone else’s tiles, but never their own, and must rely on shared…",
-    "rank": 1694,
+    "rank": 1690,
     "mechanics": [
       "Deduction",
       "Paper-and-Pencil",
@@ -4125,14 +4124,14 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.1906,
-    "rating": 7.96262,
+    "rating": 7.96242,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/PJRaImV8iXGAq2L-6rrn-w__small/img/CADXd2Eq6iDuB6ZR_JleRAFBUyM=/fit-in/200x150/filters:strip_icc()/pic2649931.jpg",
     "type": "comp",
     "description": "In the thick of the Viennese modern age, exquisite caf&eacute;s are competing for customers. Inspiring artists, important politicians, and tourists from all over the world are populating Vienna and in need of a hotel…",
-    "rank": 68,
+    "rank": 67,
     "mechanics": [
       "Action Drafting",
       "Contracts",
@@ -4155,7 +4154,7 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 2.9302,
-    "rating": 7.773,
+    "rating": 7.7731,
     "bestPlayers": [
       5
     ],
@@ -4186,7 +4185,7 @@
     "maxPlayers": 4,
     "length": 150,
     "weight": 3.701,
-    "rating": 8.25789,
+    "rating": 8.25793,
     "bestPlayers": [
       3
     ],
@@ -4249,7 +4248,7 @@
     "maxPlayers": 4,
     "length": 45,
     "weight": 2.0524,
-    "rating": 7.60971,
+    "rating": 7.61004,
     "bestPlayers": [
       2,
       3
@@ -4310,14 +4309,14 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2.2857,
-    "rating": 6.73535,
+    "rating": 6.74,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/6v50UXtWsG9hfawQbWZeCg__small/img/4jS85c34kAF4z7Mt_LidZ9B4XQk=/fit-in/200x150/filters:strip_icc()/pic8579689.png",
     "type": "comp",
     "description": "Step into the heart of the Conclave, where tradition, intrigue, and ambition collide. In Habemus Papam, players take on the roles of Cardinal factions, each representing distinct interests within the Catholic Church.…",
-    "rank": 9019,
+    "rank": 8975,
     "mechanics": [
       "Area Majority / Influence",
       "Betting and Bluffing",
@@ -4340,7 +4339,7 @@
     "maxPlayers": 5,
     "length": 25,
     "weight": 1.6918,
-    "rating": 7.02605,
+    "rating": 7.02602,
     "bestPlayers": [
       4
     ],
@@ -4370,7 +4369,7 @@
     "maxPlayers": 2,
     "length": 15,
     "weight": 1.6735,
-    "rating": 7.44603,
+    "rating": 7.44599,
     "bestPlayers": [
       2
     ],
@@ -4399,7 +4398,7 @@
     "maxPlayers": 5,
     "length": 90,
     "weight": 3.0881,
-    "rating": 7.7547,
+    "rating": 7.75442,
     "bestPlayers": [
       5
     ],
@@ -4428,7 +4427,7 @@
     "maxPlayers": 4,
     "length": 45,
     "weight": 2.009,
-    "rating": 8.03431,
+    "rating": 8.03428,
     "bestPlayers": [
       2,
       3
@@ -4461,7 +4460,7 @@
     "maxPlayers": 5,
     "length": 150,
     "weight": 3.7064,
-    "rating": 7.8327,
+    "rating": 7.83252,
     "bestPlayers": [
       3
     ],
@@ -4493,7 +4492,7 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2.2003,
-    "rating": 7.99081,
+    "rating": 7.99044,
     "bestPlayers": [
       5,
       6
@@ -4527,8 +4526,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 180,
-    "weight": 4.2607,
-    "rating": 8.34877,
+    "weight": 4.2604,
+    "rating": 8.34867,
     "bestPlayers": [
       4,
       4
@@ -4560,7 +4559,7 @@
     "maxPlayers": 20,
     "length": 30,
     "weight": 1,
-    "rating": 6.58548,
+    "rating": 6.58572,
     "bestPlayers": [
       7,
       8,
@@ -4587,7 +4586,7 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 1.4799,
-    "rating": 7.20251,
+    "rating": 7.2023,
     "bestPlayers": [
       4,
       5
@@ -4595,7 +4594,7 @@
     "thumbnail": "https://cf.geekdo-images.com/lNRG273h6gkd3szSY3EswQ__small/img/NZ-oIqqX02QUBX2GhB3hSRwpNcg=/fit-in/200x150/filters:strip_icc()/pic9202764.png",
     "type": "comp",
     "description": "In Reiner Knizia's High Society, players bid against each other to acquire the various trappings of wealth (positive-number and multiplier cards) while avoiding its pitfalls (negative number and divisor cards). While…",
-    "rank": 534,
+    "rank": 535,
     "mechanics": [
       "Auction / Bidding",
       "Auction: Turn Order Until Pass",
@@ -4622,7 +4621,7 @@
     "thumbnail": "https://cf.geekdo-images.com/1Kn9fhAWosnKaNGjwKgYGw__small/img/q8EqAp0qW3Y_QT-U5I1dw0MwTY0=/fit-in/200x150/filters:strip_icc()/pic9225195.png",
     "type": "comp",
     "description": "Honeypot is a quick and simple I Stack, You Choose game for 1-6 players with delightful artwork by Kwanchai Moriya! In Honeypot, players take on the role of secret agent bears trying to gather the best intel and spy…",
-    "rank": 7717,
+    "rank": 7719,
     "mechanics": [
       "Closed Drafting",
       "Deduction",
@@ -4650,7 +4649,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.0213,
-    "rating": 7.58104,
+    "rating": 7.581,
     "bestPlayers": [
       3
     ],
@@ -4680,8 +4679,8 @@
     "minPlayers": 2,
     "maxPlayers": 99,
     "length": 20,
-    "weight": 1.2302,
-    "rating": 7.76592,
+    "weight": 1.2286,
+    "rating": 7.76568,
     "bestPlayers": [
       5,
       6
@@ -4689,7 +4688,7 @@
     "thumbnail": "https://cf.geekdo-images.com/co36SqyPYlM1QwVW6XSwyQ__small/img/dur_aXLM90CAW7CE_Tt5wjADaJk=/fit-in/200x150/filters:strip_icc()/pic8933083.jpg",
     "type": "comp",
     "description": "Hot Streak is a game for hard luck gamblers who love to bet on and scream at the racers, who in this case happen to be mascots who may (or may not) keep running in the right direction. At the start of the game, set up…",
-    "rank": 288,
+    "rank": 287,
     "mechanics": [
       "Betting and Bluffing",
       "Moving Multiple Units",
@@ -4709,7 +4708,7 @@
     "maxPlayers": 10,
     "length": 30,
     "weight": 1.0551,
-    "rating": 6.4163,
+    "rating": 6.41611,
     "bestPlayers": [
       6,
       7,
@@ -4718,7 +4717,7 @@
     "thumbnail": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__small/img/EJ5gcczwsYvSavYuO4UoNPS45vo=/fit-in/200x150/filters:strip_icc()/pic5390676.jpg",
     "type": "comp",
     "description": "What hue do you think of when we say “apple”? Hues and Cues is a vibrant game of colorful communication where players are challenged to make connections to colors with words. Using only one and two-word cues, players…",
-    "rank": 2470,
+    "rank": 2469,
     "mechanics": [
       "Communication Limits",
       "Deduction",
@@ -4739,7 +4738,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.0547,
-    "rating": 7.58106,
+    "rating": 7.58119,
     "bestPlayers": [
       4
     ],
@@ -4768,7 +4767,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 4.2139,
-    "rating": 7.71608,
+    "rating": 7.71546,
     "bestPlayers": [
       4
     ],
@@ -4810,7 +4809,7 @@
     "maxPlayers": 4,
     "length": 40,
     "weight": 1.3947,
-    "rating": 6.97083,
+    "rating": 6.97025,
     "bestPlayers": [
       4
     ],
@@ -4834,7 +4833,7 @@
     "maxPlayers": 5,
     "length": 100,
     "weight": 3.0744,
-    "rating": 7.28797,
+    "rating": 7.28781,
     "bestPlayers": [
       4,
       5
@@ -4903,7 +4902,7 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 1.6852,
-    "rating": 6.96805,
+    "rating": 6.96723,
     "bestPlayers": [
       4,
       5
@@ -4911,7 +4910,7 @@
     "thumbnail": "https://cf.geekdo-images.com/Kimz03Spg3dB96_O-xbcPg__small/img/4MXilcl8plyqXtNQoCk6pE_lroM=/fit-in/200x150/filters:strip_icc()/pic7233520.png",
     "type": "teams",
     "description": "The Mostly Cooperative Trick-Taking Game You are a group of secret agents and must work together to complete your missions. But beware! An insider is hiding amongst you, sabotaging you at every turn and collecting…",
-    "rank": 2143,
+    "rank": 2145,
     "mechanics": [
       "Communication Limits",
       "Deduction",
@@ -4937,14 +4936,14 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.5856,
-    "rating": 7.53234,
+    "rating": 7.53209,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/PHH9Mreen2sBcxV6ZsE3ew__small/img/Vzpg3sdeAbCy0IxSAoh1aH9nvDE=/fit-in/200x150/filters:strip_icc()/pic1885326.jpg",
     "type": "comp",
     "description": "There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized:…",
-    "rank": 196,
+    "rank": 195,
     "mechanics": [
       "Contracts",
       "Dice Rolling",
@@ -4971,7 +4970,7 @@
     "maxPlayers": 10,
     "length": 10,
     "weight": 1.0114,
-    "rating": 7.31549,
+    "rating": 7.31589,
     "bestPlayers": [
       5,
       6
@@ -4999,7 +4998,7 @@
     "maxPlayers": 2,
     "length": 30,
     "weight": 1.4634,
-    "rating": 7.47771,
+    "rating": 7.47765,
     "bestPlayers": [
       2
     ],
@@ -5034,7 +5033,7 @@
     "maxPlayers": 10,
     "length": 15,
     "weight": 1,
-    "rating": 7.63795,
+    "rating": 7.64226,
     "bestPlayers": [
       4,
       5,
@@ -5043,7 +5042,7 @@
     "thumbnail": "https://cf.geekdo-images.com/mPm_DOhFwXAnl2rI2gZ08g__small/img/BFNhp55kBmeBlDG8i-BqIvWOSkA=/fit-in/200x150/filters:strip_icc()/pic9476106.jpg",
     "type": "coop",
     "description": "Your goal each round is to convey a secret word to the round's guesser. You and your team gets to spell three words in order to do that. Players spells one letter each. The catch? They aren't allowed to discuss what…",
-    "rank": 6728,
+    "rank": 6668,
     "mechanics": [
       "Cooperative Game",
       "Spelling"
@@ -5061,7 +5060,7 @@
     "maxPlayers": 10,
     "length": 90,
     "weight": 1.0291,
-    "rating": 6.20307,
+    "rating": 6.20275,
     "bestPlayers": [
       5,
       6
@@ -5069,7 +5068,7 @@
     "thumbnail": "https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__small/img/r9PhVsbOjPDDLfVKBhwrPnqV4LI=/fit-in/200x150/filters:strip_icc()/pic6411897.png",
     "type": "comp",
     "description": "From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip. The creators said: \"Someone on the Internet once told us that making stick figure comics is easy as hell,…",
-    "rank": 3611,
+    "rank": 3612,
     "mechanics": [
       "Hand Management",
       "Player Judge",
@@ -5091,7 +5090,7 @@
     "maxPlayers": 4,
     "length": 50,
     "weight": 2.0135,
-    "rating": 6.98188,
+    "rating": 6.9822,
     "bestPlayers": [
       3
     ],
@@ -5144,14 +5143,14 @@
     "maxPlayers": 5,
     "length": 15,
     "weight": 1.1346,
-    "rating": 7.06933,
+    "rating": 7.06808,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/-s3g7tvzTk-aylhc7Uy2pw__small/img/s2po1RsewfUXnUPOLaTGEIVs5jE=/fit-in/200x150/filters:strip_icc()/pic8918687.png",
     "type": "comp",
     "description": "Jungo is a hand-building game in which you try to be the first player to get rid of your cards. From a deck of 72 cards, with eight copies each of 1-8, players get a hand of cards that they cannot rearrange. The…",
-    "rank": 2221,
+    "rank": 2222,
     "mechanics": [
       "Hand Management",
       "Ladder Climbing"
@@ -5169,7 +5168,7 @@
     "maxPlayers": 7,
     "length": 60,
     "weight": 1.0325,
-    "rating": 7.58814,
+    "rating": 7.58834,
     "bestPlayers": [
       6,
       7
@@ -5199,14 +5198,14 @@
     "maxPlayers": 2,
     "length": 40,
     "weight": 2.0519,
-    "rating": 6.60738,
+    "rating": 6.60659,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__small/img/bc5NxkspfUfPskxlC30SxlwNyxs=/fit-in/200x150/filters:strip_icc()/pic2606165.jpg",
     "type": "comp",
     "description": "\"Who will rule the South Seas? Two Kahuna - ancient sorcerers of the Pacific - compete for dominance on an archipelago consisting of twelve small islands. Using their magic and wisdom, they struggle for control of the…",
-    "rank": 1659,
+    "rank": 1661,
     "mechanics": [
       "Area Majority / Influence",
       "Hand Management",
@@ -5230,7 +5229,7 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 3.0067,
-    "rating": 7.61919,
+    "rating": 7.61895,
     "bestPlayers": [
       4,
       5
@@ -5312,7 +5311,7 @@
     "thumbnail": "https://cf.geekdo-images.com/8erQCUG1vQw9EnCAX1d59Q__small/img/PtjcJWjaj7MCH7386B8VX--bSwk=/fit-in/200x150/filters:strip_icc()/pic6267705.png",
     "type": "comp",
     "description": "Your favorite British Baker, Kim-Joy, has moved to a magical forest and opened up a small bakery. Now she needs your help to keep customers happy. From sly foxes to needy cats, gossipy ducks to clumsy dinosaurs, you’re…",
-    "rank": 7030,
+    "rank": 7029,
     "mechanics": [
       "Action Points",
       "Cooperative Game",
@@ -5331,14 +5330,14 @@
     "maxPlayers": 6,
     "length": 30,
     "weight": 1.6667,
-    "rating": 7.85256,
+    "rating": 7.85116,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/Yo5tR3aWzRRCM7dGrEq6IQ__small/img/VzE_yw6GHuCwaxQyQhz69nESJC0=/fit-in/200x150/filters:strip_icc()/pic9390673.png",
     "type": "comp",
     "description": "The True King of Monsters is finally here! Toho’s legendary Kaijus clash in an epic battle to decide who will be the definitive King of Tokyo. Play as Godzilla, King Ghidorah, Hedorah, Rodan, Mothra, and Mechagodzilla.…",
-    "rank": 4894,
+    "rank": 4866,
     "mechanics": [
       "Dice Rolling",
       "Die Icon Resolution",
@@ -5364,7 +5363,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.3345,
-    "rating": 7.74122,
+    "rating": 7.74084,
     "bestPlayers": [
       3,
       4
@@ -5372,7 +5371,7 @@
     "thumbnail": "https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__small/img/XlZo63iHoNfh7yKZdJiJj2Wfglo=/fit-in/200x150/filters:strip_icc()/pic7464921.png",
     "type": "comp",
     "description": "Join other ambitious guild leaders in mining and developing the famous City of Silver during its period of rapid economic growth and expansion in the 14th century — from the first discovery of silver near the Cistercian…",
-    "rank": 484,
+    "rank": 483,
     "mechanics": [
       "Action Queue",
       "Events",
@@ -5406,7 +5405,7 @@
     "thumbnail": "https://cf.geekdo-images.com/kYZoWRZUfVD_g4TefiBu-Q__small/img/u1WZAzQstXpCSvXCbQA87R0xeTM=/fit-in/200x150/filters:strip_icc()/pic7488897.png",
     "type": "comp",
     "description": "Lacuna is a game for 2 players about collecting flowers on a pond at night. It takes seconds to set up and plays entirely on a cloth mat. The rules are simple: draw an imaginary line between 2 flowers, place a pawn, and…",
-    "rank": 1479,
+    "rank": 1481,
     "mechanics": [
       "Zone of Control"
     ],
@@ -5422,14 +5421,14 @@
     "maxPlayers": 2,
     "length": 60,
     "weight": 2.2609,
-    "rating": 8.12664,
+    "rating": 8.12796,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/6ckw7g0al43ARdYWcwY5uQ__small/img/3foTHhO81w_zCji48qmzWDXi5ZY=/fit-in/200x150/filters:strip_icc()/pic9627746.jpg",
     "type": "comp",
     "description": "You’ve worked hard to earn your spot in the Adventurers Guild, but one last obstacle remains. You must square off with a cunning rival guild hopeful in an exam of precarious paths that will test your skills at building…",
-    "rank": 2541,
+    "rank": 2544,
     "mechanics": [
       "Action Points",
       "Deduction",
@@ -5453,7 +5452,7 @@
     "maxPlayers": 10,
     "length": 25,
     "weight": 1.4722,
-    "rating": 6.85028,
+    "rating": 6.84874,
     "bestPlayers": [
       2,
       4,
@@ -5463,7 +5462,7 @@
     "thumbnail": "https://cf.geekdo-images.com/lWsfPuN_lBnHs6gGgP-qtA__small/img/8-wv3nol4TgxC4QDxrz7fXy2AL0=/fit-in/200x150/filters:strip_icc()/pic8268411.png",
     "type": "teams",
     "description": "Landmarks is a word game of hidden paths and clever clues. Your party is lost deep in an island jungle, relying on you to guide them to safety and treasure! In this jungle, every word matters. Use strategic wordplay to…",
-    "rank": 2783,
+    "rank": 2788,
     "mechanics": [
       "Communication Limits",
       "Cooperative Game"
@@ -5533,7 +5532,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 4.5637,
-    "rating": 8.16375,
+    "rating": 8.16359,
     "bestPlayers": [
       3
     ],
@@ -5566,7 +5565,7 @@
     "maxPlayers": 4,
     "length": 20,
     "weight": 1.9103,
-    "rating": 7.98401,
+    "rating": 7.98306,
     "bestPlayers": [
       4
     ],
@@ -5595,7 +5594,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.3401,
-    "rating": 7.35407,
+    "rating": 7.35396,
     "bestPlayers": [
       4
     ],
@@ -5628,7 +5627,7 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 2.4479,
-    "rating": 7.72917,
+    "rating": 7.72905,
     "bestPlayers": [
       3,
       4
@@ -5659,8 +5658,8 @@
     "minPlayers": 2,
     "maxPlayers": 2,
     "length": 30,
-    "weight": 1.4748,
-    "rating": 7.26123,
+    "weight": 1.4749,
+    "rating": 7.2612,
     "bestPlayers": [
       2
     ],
@@ -5697,7 +5696,7 @@
     "thumbnail": "https://cf.geekdo-images.com/5uA3uCTCkXS5MBIQMGFlQg__small/img/A3m_Nx28zrr8UIu7G7GTA-oFAdY=/fit-in/200x150/filters:strip_icc()/pic1780912.jpg",
     "type": "comp",
     "description": "\"Gold, Gold, Gold – A Ton of Gold\" – this was the Seattle headline heard 'round the world announcing the discovery of great stores of gold in the Klondike. This was the beginning of an exodus of would-be prospectors…",
-    "rank": 5383,
+    "rank": 5384,
     "mechanics": [
       "Dice Rolling",
       "Modular Board",
@@ -5753,7 +5752,7 @@
     "thumbnail": "https://cf.geekdo-images.com/LhlnjdHHxuGD7_vnmC2QhQ__small/img/c2WzRTNwZvtn2rG8Cea7vOcnSd8=/fit-in/200x150/filters:strip_icc()/pic8308857.jpg",
     "type": "teams",
     "description": "You have just been selected to appear as a contestant on a new reality dating show. While every contestant on the show claims to be looking for love, some contestants are actually just trying to get famous. Your goal is…",
-    "rank": 14422,
+    "rank": 14425,
     "mechanics": [
       "Take That"
     ],
@@ -5771,7 +5770,7 @@
     "maxPlayers": 4,
     "length": 150,
     "weight": 3.8276,
-    "rating": 8.13803,
+    "rating": 8.1387,
     "bestPlayers": [
       3,
       4
@@ -5779,7 +5778,7 @@
     "thumbnail": "https://cf.geekdo-images.com/NNOCMpxKchQb_ByLmvDfRQ__small/img/hgZk4xlsFSfbXyMy2Y32dFqXCHM=/fit-in/200x150/filters:strip_icc()/pic8145392.png",
     "type": "comp",
     "description": "Luthier transports players to the height of classical music in Western Europe, when the art of the instrument was upheld equally by skilled craftspeople, noble patrons, virtuoso performers, and famous composers such as…",
-    "rank": 459,
+    "rank": 457,
     "mechanics": [
       "Area Majority / Influence",
       "Auction / Bidding",
@@ -5838,8 +5837,8 @@
     "minPlayers": 1,
     "maxPlayers": 8,
     "length": 15,
-    "weight": 1.7482,
-    "rating": 6.93203,
+    "weight": 1.7488,
+    "rating": 6.93195,
     "bestPlayers": [
       4
     ],
@@ -5873,8 +5872,8 @@
     "minPlayers": 2,
     "maxPlayers": 6,
     "length": 30,
-    "weight": 1.1929,
-    "rating": 7.74872,
+    "weight": 1.19,
+    "rating": 7.74753,
     "bestPlayers": [
       5,
       6
@@ -5907,7 +5906,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.8642,
-    "rating": 7.18172,
+    "rating": 7.18128,
     "bestPlayers": [
       3
     ],
@@ -5935,14 +5934,14 @@
     "maxPlayers": 2,
     "length": 20,
     "weight": 1.7843,
-    "rating": 7.42782,
+    "rating": 7.42757,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/FZUJ_Ieaw83mpz1eL-dY_g__small/img/o8B080rjfGtNloX7wMa_IRthuXo=/fit-in/200x150/filters:strip_icc()/pic5056121.jpg",
     "type": "comp",
     "description": "The Mandala: the symbol of an ancient and sacred ritual. Colored sand is laid to create a symbolic map of the world before the pattern is ceremonially destroyed and the sand cast into the river. In the two-player game…",
-    "rank": 583,
+    "rank": 584,
     "mechanics": [
       "Area Majority / Influence",
       "Hand Management",
@@ -5962,14 +5961,14 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 2.9865,
-    "rating": 7.50778,
+    "rating": 7.50767,
     "bestPlayers": [
       5
     ],
     "thumbnail": "https://cf.geekdo-images.com/bCT1a-L84zgHRsIkNdH-lA__small/img/dTt5RE3rxMyv3pe6_DslE-DEboY=/fit-in/200x150/filters:strip_icc()/pic2648963.jpg",
     "type": "comp",
     "description": "The ancient Romans called the Mediterranean Sea \"mare nostrum\", which is Latin for \"our sea\". Mare Nostrum is an empire-building game in which 3-5 players [or 2-6 with the 'Atlas' expansion] lead their individual…",
-    "rank": 822,
+    "rank": 820,
     "mechanics": [
       "Area Movement",
       "Dice Rolling",
@@ -5993,14 +5992,14 @@
     "maxPlayers": 8,
     "length": 45,
     "weight": 1.0833,
-    "rating": 6.81446,
+    "rating": 6.81387,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/gaiG9Iv8S3G6ppC5AKlNIQ__small/img/85q4rpTU8rQy3n0-agc3YUjda4o=/fit-in/200x150/filters:strip_icc()/pic4912833.png",
     "type": "teams",
     "description": "In the game Medium, players act as psychic mediums, harnessing their powerful extra-sensory abilities to access other players’ thoughts. Together in pairs, they mentally determine the Medium: the word that connects the…",
-    "rank": 2370,
+    "rank": 2371,
     "mechanics": [
       "Communication Limits",
       "Targeted Clues",
@@ -6021,14 +6020,14 @@
     "maxPlayers": 5,
     "length": 90,
     "weight": 2.75,
-    "rating": 6.67997,
+    "rating": 6.67791,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/GINqipWTQ4BdR-zC-LLbPg__small/img/nDmHL2bzCA9DVSDzra9_QdpbAL0=/fit-in/200x150/filters:strip_icc()/pic8634817.jpg",
     "type": "comp",
     "description": "In Merchants of Andromeda, you have to play the game of space politics, casting votes in the Senate, bidding on lucrative space goods, or resorting to ship combat! At the start of your turn, you draw three cards (one at…",
-    "rank": 7855,
+    "rank": 7853,
     "mechanics": [
       "Area Majority / Influence",
       "Auction / Bidding",
@@ -6050,7 +6049,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.436,
-    "rating": 7.46324,
+    "rating": 7.46293,
     "bestPlayers": [
       4
     ],
@@ -6117,7 +6116,7 @@
     "maxPlayers": 4,
     "length": 20,
     "weight": 1.074,
-    "rating": 6.70516,
+    "rating": 6.70476,
     "bestPlayers": [
       1,
       4
@@ -6144,7 +6143,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.8937,
-    "rating": 7.76811,
+    "rating": 7.76764,
     "bestPlayers": [
       2,
       3
@@ -6177,7 +6176,7 @@
     "maxPlayers": 6,
     "length": 90,
     "weight": 2.2197,
-    "rating": 7.38291,
+    "rating": 7.38292,
     "bestPlayers": [
       4
     ],
@@ -6206,7 +6205,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 2.275,
-    "rating": 7.52567,
+    "rating": 7.52547,
     "bestPlayers": [
       4,
       5
@@ -6264,7 +6263,7 @@
     "maxPlayers": 8,
     "length": 180,
     "weight": 1.6154,
-    "rating": 4.36897,
+    "rating": 4.36907,
     "bestPlayers": [
       1,
       4
@@ -6272,7 +6271,7 @@
     "thumbnail": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__small/img/ezXcyEsHhS9iRxmuGe8SmiLLXlM=/fit-in/200x150/filters:strip_icc()/pic5786795.jpg",
     "type": "comp",
     "description": "Theme Players take the part of land owners, attempting to buy and then develop their land. Income is gained by other players visiting their properties and money is spent when they visit properties belonging to other…",
-    "rank": 31484,
+    "rank": 31493,
     "mechanics": [
       "Auction / Bidding",
       "Auction: English",
@@ -6298,7 +6297,7 @@
     "maxPlayers": 3,
     "length": 15,
     "weight": 1.2826,
-    "rating": 6.37828,
+    "rating": 6.3793,
     "bestPlayers": [
       3,
       3
@@ -6306,7 +6305,7 @@
     "thumbnail": "https://cf.geekdo-images.com/BH5gxOe_ozOtWihuCJ3lYw__small/img/-ah6aI10vhHHbGNCSyeOBya5A1o=/fit-in/200x150/filters:strip_icc()/pic2098412.jpg",
     "type": "comp",
     "description": "From the back of the box: Fast-dealing, card-stealing fun! Enjoy the rollercoaster experience of Monopoly in just 15 minutes! Collect full property sets to win! This is the \"lite\" version of Monopoly Deal Card Game,…",
-    "rank": 3776,
+    "rank": 3773,
     "mechanics": [
       "Hand Management",
       "Set Collection",
@@ -6325,14 +6324,14 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 2.4688,
-    "rating": 7.67267,
+    "rating": 7.67181,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/atjJKVYnNTTn1gZ2lbw8bA__small/img/LWKATlCPQOqfF3cJMhrnQxWRuyE=/fit-in/200x150/filters:strip_icc()/pic5631285.png",
     "type": "comp",
     "description": "Moonrakers is a game of shipbuilding, temporary alliances, and shrewd negotiation set in a space-faring future. The players form a loose band of mercenaries, but while they are united in name, actual alliances are shaky…",
-    "rank": 803,
+    "rank": 805,
     "mechanics": [
       "Action Points",
       "Deck, Bag, and Pool Building",
@@ -6356,7 +6355,7 @@
     "maxPlayers": 6,
     "length": 120,
     "weight": 3.0535,
-    "rating": 7.45934,
+    "rating": 7.45974,
     "bestPlayers": [
       4
     ],
@@ -6424,14 +6423,14 @@
     "maxPlayers": 2,
     "length": 45,
     "weight": 2.2941,
-    "rating": 8.06284,
+    "rating": 8.06261,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/gMJoHnVeAEb-RgnNg4b_Wg__small/img/xXF1dZr6m6RMWREgssyhrS61iPE=/fit-in/200x150/filters:strip_icc()/pic9089681.png",
     "type": "comp",
     "description": "The battle of Moytura has begun. As a leader of the Tuatha D&eacute; Danann, spread your influence across the land to succeed in your quest to become High Ruler of Ireland, invoking the powerful deities of the Tuatha…",
-    "rank": 3489,
+    "rank": 3482,
     "mechanics": [
       "Area Majority / Influence",
       "Area Movement",
@@ -6454,7 +6453,7 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2,
-    "rating": 7.70037,
+    "rating": 7.69777,
     "bestPlayers": [
       2,
       5
@@ -6462,7 +6461,7 @@
     "thumbnail": "https://cf.geekdo-images.com/bt7MoX2dNzh3nR4GQ2JyJw__small/img/pw5ZaVfFJ3Qh-4ovCRr1j-WE7Bo=/fit-in/200x150/filters:strip_icc()/pic8446480.jpg",
     "type": "comp",
     "description": "M&uuml; is regarded by many as one of the best offerings in the trick-taking genre. Players reveal cards to declare their bids: the highest bidder becomes the Crown and the second highest bidder is the Shield. Both the…",
-    "rank": 6000,
+    "rank": 5993,
     "mechanics": [
       "Bids As Wagers",
       "Team-Based Game",
@@ -6506,14 +6505,14 @@
     "maxPlayers": 6,
     "length": 30,
     "weight": 1.5862,
-    "rating": 6.87454,
+    "rating": 6.87425,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/RgAOz0_78OhnjASEVq-gTg__small/img/iqlnwdfMRn1pCR6Q3ZWmPpB5AuQ=/fit-in/200x150/filters:strip_icc()/pic8715055.png",
     "type": "comp",
     "description": "In Mino Dice, first released as Skull King: Das W&uuml;rfelspiel, players try to predict the result of dice battles, and whoever predicts most accurately will come out the winner of the contest. The game includes seven…",
-    "rank": 2851,
+    "rank": 2852,
     "mechanics": [
       "Dice Rolling",
       "Predictive Bid",
@@ -6568,7 +6567,7 @@
     "maxPlayers": 4,
     "length": 30,
     "weight": 1.8305,
-    "rating": 7.14897,
+    "rating": 7.14966,
     "bestPlayers": [
       2
     ],
@@ -6596,7 +6595,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 2.1207,
-    "rating": 7.54878,
+    "rating": 7.54877,
     "bestPlayers": [
       3
     ],
@@ -6657,7 +6656,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.6225,
-    "rating": 8.49579,
+    "rating": 8.49639,
     "bestPlayers": [
       4
     ],
@@ -6696,7 +6695,7 @@
     "thumbnail": "https://cf.geekdo-images.com/n-kaK1nLMpck7tn0tBMVaw__small/img/PeSH9G3OCay_OxZWHRVXbwUxbFg=/fit-in/200x150/filters:strip_icc()/pic8708203.png",
     "type": "comp",
     "description": "Crime pays if you’re careful. Still, a bank heist is no easy job. The precious loot is heavily guarded, and each thing you steal leaves a trail of evidence behind. Risk leads to reward if you can cover up the evidence…",
-    "rank": 3905,
+    "rank": 3906,
     "mechanics": [
       "Predictive Bid",
       "Score-and-Reset Game",
@@ -6714,7 +6713,7 @@
     "maxPlayers": 7,
     "length": 20,
     "weight": 1.1302,
-    "rating": 7.07957,
+    "rating": 7.07937,
     "bestPlayers": [
       4,
       5
@@ -6742,7 +6741,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.102,
-    "rating": 7.62321,
+    "rating": 7.62315,
     "bestPlayers": [
       4
     ],
@@ -6778,7 +6777,7 @@
     "thumbnail": "https://cf.geekdo-images.com/Vaj5lqV2t_EpI4Ym8x7G9g__small/img/-zNbITQJTAn0prZ0n1FwBBFx3cw=/fit-in/200x150/filters:strip_icc()/pic9562168.png",
     "type": "comp",
     "description": "In the card game North American Railways, 3-5 players build railroads in the United States. They become directors of up to five different companies and try to acquire a majority of shares. In the end, the player with…",
-    "rank": 6073,
+    "rank": 6075,
     "mechanics": [
       "Auction / Bidding",
       "Stock Holding"
@@ -6797,7 +6796,7 @@
     "maxPlayers": 4,
     "length": 150,
     "weight": 4.1932,
-    "rating": 8.10769,
+    "rating": 8.10835,
     "bestPlayers": [
       3,
       4
@@ -6832,14 +6831,14 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.7048,
-    "rating": 8.03642,
+    "rating": 8.03524,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ__small/img/wLX_C6w13ebCON4euesUohQE_Ck=/fit-in/200x150/filters:strip_icc()/pic8937255.jpg",
     "type": "comp",
     "description": "The Old King’s Crown is a game of card-driven conquest, where you play as heirs to a vacant throne, vying for control of an ancient, overgrown kingdom. Wield unique abilities and leverage your followers’ traits to best…",
-    "rank": 445,
+    "rank": 444,
     "mechanics": [
       "Betting and Bluffing",
       "Card Play Conflict Resolution",
@@ -6863,7 +6862,7 @@
     "maxPlayers": 4,
     "length": 150,
     "weight": 4.6232,
-    "rating": 8.15638,
+    "rating": 8.15623,
     "bestPlayers": [
       3,
       4
@@ -6903,7 +6902,7 @@
     "maxPlayers": 10,
     "length": 10,
     "weight": 1.3801,
-    "rating": 7.0295,
+    "rating": 7.02917,
     "bestPlayers": [
       6,
       7,
@@ -6912,7 +6911,7 @@
     "thumbnail": "https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__small/img/viW0s_SZmeEo53dKbM84WbVjIaY=/fit-in/200x150/filters:strip_icc()/pic8783294.png",
     "type": "teams",
     "description": "No moderator, no elimination, ten-minute games. One Night Ultimate Werewolf is a fast game for 3-10 players in which everyone gets a role: One of the dastardly Werewolves, the tricky Troublemaker, the helpful Seer, or…",
-    "rank": 687,
+    "rank": 688,
     "mechanics": [
       "Hidden Roles",
       "Role Playing",
@@ -6937,7 +6936,7 @@
     "maxPlayers": 2,
     "length": 20,
     "weight": 1.6561,
-    "rating": 7.33191,
+    "rating": 7.33176,
     "bestPlayers": [
       2
     ],
@@ -6963,15 +6962,15 @@
     "minPlayers": 2,
     "maxPlayers": 5,
     "length": 25,
-    "weight": 1.9167,
-    "rating": 7.92212,
+    "weight": 1.8462,
+    "rating": 7.92138,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/o6x7F1SQFiBaPkTCzP7_6Q__small/img/4psKLrZHcKHz1ZTRweAaK81Hg-U=/fit-in/200x150/filters:strip_icc()/pic9266636.jpg",
     "type": "comp",
     "description": "A Brilliant Laser-Based Deduction Challenge! The Aerospace Department has sent us a mission: use laser beams to uncover the hidden positions, directions, and colors of mysterious planet-shaped pieces. By carefully…",
-    "rank": 3456,
+    "rank": 3452,
     "mechanics": [
       "Deduction"
     ],
@@ -6995,7 +6994,7 @@
     "thumbnail": "https://cf.geekdo-images.com/0x7TCH7bCynSQqW3GVc8UA__small/img/gyvDrCC0SJiQ89AUgxxYoXqo_Ng=/fit-in/200x150/filters:strip_icc()/pic8478397.png",
     "type": "comp",
     "description": "Come one, come all to the Silo System, the beating heart of our galaxy, for the race of the decade! We've recruited the best tourists in all the cosmos: travel-hardened explorers who will compete in the ultimate…",
-    "rank": 3062,
+    "rank": 3063,
     "mechanics": [
       "Hand Management",
       "Movement Points",
@@ -7019,7 +7018,7 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 60,
-    "weight": 2.2297,
+    "weight": 2.2267,
     "rating": 7.09308,
     "bestPlayers": [
       3,
@@ -7028,7 +7027,7 @@
     "thumbnail": "https://cf.geekdo-images.com/Mf1rHr7R3B5TjqdXPkxRTg__small/img/cAqsbDYx726TvVkl0ofPqaITwTI=/fit-in/200x150/filters:strip_icc()/pic7041211.png",
     "type": "comp",
     "description": "Orichalque is a tense and fast-pace strategy game – similar to a short 4X. Each player has their own Island board to explore and develop. On each turn, they choose a set of one Exploration tile and one Action : recruit…",
-    "rank": 1941,
+    "rank": 1942,
     "mechanics": [
       "Action Drafting",
       "Dice Rolling",
@@ -7051,7 +7050,7 @@
     "maxPlayers": 5,
     "length": 90,
     "weight": 3.009,
-    "rating": 8.04551,
+    "rating": 8.04544,
     "bestPlayers": [
       4
     ],
@@ -7114,7 +7113,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 2.8718,
-    "rating": 7.96873,
+    "rating": 7.97,
     "bestPlayers": [
       3,
       4
@@ -7122,7 +7121,7 @@
     "thumbnail": "https://cf.geekdo-images.com/YI9u0dAufZ34y24fJc3nFQ__small/img/Eonn22Ork8DbdcONR4i4vfmV8h8=/fit-in/200x150/filters:strip_icc()/pic6417261.jpg",
     "type": "comp",
     "description": "Ostia is a strategy game for 1-4 players. Players lead a large fleet to explore the ocean, trade and develop the port. Make good use of the Mancala system to strengthen your personal board and aim for the highest honor!…",
-    "rank": 1233,
+    "rank": 1231,
     "mechanics": [
       "Contracts",
       "End Game Bonuses",
@@ -7148,7 +7147,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.7039,
-    "rating": 7.95087,
+    "rating": 7.95069,
     "bestPlayers": [
       2,
       4
@@ -7177,7 +7176,7 @@
     "maxPlayers": 5,
     "length": 40,
     "weight": 2.0392,
-    "rating": 7.10918,
+    "rating": 7.10761,
     "bestPlayers": [
       4
     ],
@@ -7204,7 +7203,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.1296,
-    "rating": 7.6065,
+    "rating": 7.60646,
     "bestPlayers": [
       3
     ],
@@ -7238,7 +7237,7 @@
     "maxPlayers": 2,
     "length": 30,
     "weight": 1.5996,
-    "rating": 7.57552,
+    "rating": 7.57541,
     "bestPlayers": [
       2
     ],
@@ -7271,14 +7270,14 @@
     "maxPlayers": 5,
     "length": 150,
     "weight": 3.3684,
-    "rating": 7.15643,
+    "rating": 7.15589,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/285LclstGQ_04jKk9JZgjA__small/img/UG06vqmAYongzvUeHYQQLh7aEcg=/fit-in/200x150/filters:strip_icc()/pic8377382.png",
     "type": "comp",
     "description": "Welcome back to the Rococo era! Louis XV reigns in France and is hosting a grand festival in the gardens of Versailles. Everyone is clamoring for you to provide tantalizing and delicious pastries for the event. This…",
-    "rank": 6905,
+    "rank": 6896,
     "mechanics": [
       "Action Retrieval",
       "Area Majority / Influence",
@@ -7301,14 +7300,14 @@
     "maxPlayers": 5,
     "length": 50,
     "weight": 2,
-    "rating": 6.94841,
+    "rating": 6.94412,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/xpbRJJCULlRVJXVBJJA7AQ__small/img/x00tTDC4WuCpuX5WKpVR92PvFUw=/fit-in/200x150/filters:strip_icc()/pic7622550.jpg",
     "type": "comp",
     "description": "The definitive version of a Michael Schacht classic, Patrician: Towers of Influence features an updated presentation, new two-player rules, and two expansion modules. Welcome to 13th Century Italy, a time when wealthy…",
-    "rank": 8370,
+    "rank": 8365,
     "mechanics": [
       "Area Majority / Influence",
       "Hand Management",
@@ -7327,7 +7326,7 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 1.0333,
-    "rating": 7.22502,
+    "rating": 7.2252,
     "bestPlayers": [
       4,
       5
@@ -7354,7 +7353,7 @@
     "maxPlayers": 5,
     "length": 40,
     "weight": 1.3,
-    "rating": 7.35635,
+    "rating": 7.35968,
     "bestPlayers": [
       4,
       5
@@ -7362,7 +7361,7 @@
     "thumbnail": "https://cf.geekdo-images.com/UMtB1Fb4PxWdzbzscYbOmg__small/img/YCGbdR78JCOjEosQHLfdmbADYYo=/fit-in/200x150/filters:strip_icc()/pic8873948.jpg",
     "type": "comp",
     "description": "Bide your time, but don't wait too long—you won't get any candy! In Pi&ntilde;atas, you want to take tricks as late as you can. Once you take three tricks, you're out of the round. But, you get points for how many…",
-    "rank": 3660,
+    "rank": 3650,
     "mechanics": [
       "Trick-taking"
     ],
@@ -7379,7 +7378,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.9058,
-    "rating": 7.53446,
+    "rating": 7.53436,
     "bestPlayers": [
       3
     ],
@@ -7410,7 +7409,7 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 1.2358,
-    "rating": 7.09001,
+    "rating": 7.08976,
     "bestPlayers": [
       2
     ],
@@ -7438,7 +7437,7 @@
     "maxPlayers": 6,
     "length": 80,
     "weight": 2.2527,
-    "rating": 7.75258,
+    "rating": 7.7524,
     "bestPlayers": [
       4
     ],
@@ -7485,7 +7484,7 @@
     "maxPlayers": 12,
     "length": 15,
     "weight": 1.1091,
-    "rating": 6.63338,
+    "rating": 6.6325,
     "bestPlayers": [
       6,
       8
@@ -7515,14 +7514,14 @@
     "maxPlayers": 5,
     "length": 30,
     "weight": 1.9333,
-    "rating": 7.10239,
+    "rating": 7.1017,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/J7_O8J6IU38a-NS9WMD_2A__small/img/cjMFqmB0fuofRIcQMynj1r5jKZs=/fit-in/200x150/filters:strip_icc()/pic8514367.png",
     "type": "comp",
     "description": "From the team that brought you the card games Point Salad and Point City, Point Galaxy is a fast card-drafting, sequence-building game for the whole family! Point Galaxy takes the same simple concept of drafting cards…",
-    "rank": 2702,
+    "rank": 2704,
     "mechanics": [
       "End Game Bonuses",
       "Market",
@@ -7548,7 +7547,7 @@
     "maxPlayers": 6,
     "length": 120,
     "weight": 3.2447,
-    "rating": 7.79642,
+    "rating": 7.79648,
     "bestPlayers": [
       4,
       5
@@ -7607,8 +7606,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 40,
-    "weight": 1.5599,
-    "rating": 7.43895,
+    "weight": 1.5614,
+    "rating": 7.43873,
     "bestPlayers": [
       2,
       3
@@ -7622,7 +7621,6 @@
       "Contracts",
       "Open Drafting",
       "Pattern Building",
-      "Resource Queue",
       "Solo / Solitaire Game",
       "Tile Placement"
     ],
@@ -7640,14 +7638,14 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 1.5503,
-    "rating": 7.31555,
+    "rating": 7.31535,
     "bestPlayers": [
       5
     ],
     "thumbnail": "https://cf.geekdo-images.com/47o_swlkRbfpMH3hnFZgtA__small/img/gT07BJ5Ynlopp-UIQRIySERKUmI=/fit-in/200x150/filters:strip_icc()/pic4383594.png",
     "type": "comp",
     "description": "Financial crisis has occurred. Sixteen \"too big to fail\" companies from four countries need bailing out. The central banks have unlimited financial resources, so lots of money is going to be printed, but the central…",
-    "rank": 628,
+    "rank": 630,
     "mechanics": [
       "Auction / Bidding",
       "Auction: Sealed Bid",
@@ -7666,8 +7664,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 45,
-    "weight": 1.9433,
-    "rating": 7.80051,
+    "weight": 1.9434,
+    "rating": 7.8005,
     "bestPlayers": [
       4
     ],
@@ -7701,7 +7699,7 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 1.9414,
-    "rating": 7.72227,
+    "rating": 7.7223,
     "bestPlayers": [
       2,
       4
@@ -7739,7 +7737,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.3032,
-    "rating": 7.72279,
+    "rating": 7.72271,
     "bestPlayers": [
       3,
       4
@@ -7770,7 +7768,7 @@
     "maxPlayers": 4,
     "length": 80,
     "weight": 2.569,
-    "rating": 7.71746,
+    "rating": 7.71741,
     "bestPlayers": [
       3
     ],
@@ -7797,7 +7795,7 @@
     "maxPlayers": 4,
     "length": 45,
     "weight": 1.75,
-    "rating": 7.45253,
+    "rating": 7.45335,
     "bestPlayers": [
       3
     ],
@@ -7824,8 +7822,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.2195,
-    "rating": 7.77643,
+    "weight": 3.2143,
+    "rating": 7.77701,
     "bestPlayers": [
       3,
       4
@@ -7833,7 +7831,7 @@
     "thumbnail": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__small/img/yFsR_l7zagtOjSmxVKqZlegRpo8=/fit-in/200x150/filters:strip_icc()/pic8951049.png",
     "type": "comp",
     "description": "In the late 19th century, during the early Meiji era, Japan opened its first railway line between Shimbashi and Yokohama. This new mode of transportation sparked a railway boom across the country. Local entrepreneurs,…",
-    "rank": 1999,
+    "rank": 1996,
     "mechanics": [
       "Auction / Bidding",
       "End Game Bonuses",
@@ -7855,7 +7853,7 @@
     "maxPlayers": 4,
     "length": 75,
     "weight": 2.9029,
-    "rating": 7.71737,
+    "rating": 7.71726,
     "bestPlayers": [
       4
     ],
@@ -7887,14 +7885,14 @@
     "maxPlayers": 2,
     "length": 15,
     "weight": 2.2857,
-    "rating": 7.29201,
+    "rating": 7.31088,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/mOgd_-17Xz1XFI57myJOgg__small/img/m81hys794oDD4algyqkzUtVs4fg=/fit-in/200x150/filters:strip_icc()/pic9160486.jpg",
     "type": "comp",
     "description": "Trade lead with explosive card combos and quick-fire abilities in a riotous Wild West shootout. Tensions are high in the town of Rattlesnake. The sun beats down and tempers fray. Two figures start moving, hands flashing…",
-    "rank": 8950,
+    "rank": 8933,
     "mechanics": [
       "Deck, Bag, and Pool Building",
       "Hand Management"
@@ -7921,7 +7919,7 @@
     "thumbnail": "https://cf.geekdo-images.com/0nI7uz_rrPKxYswLOraWgA__small/img/X4JiFtSWMieLC7gUEB5oLxxvTFk=/fit-in/200x150/filters:strip_icc()/pic8204657.png",
     "type": "comp",
     "description": "Snow White, The Little Mermaid, Cinderella, and many other legendary princesses are celebrating a five-day party. The prince charmings, who have not been invited, will try to infiltrate the ball to propose marriage to…",
-    "rank": 4526,
+    "rank": 4528,
     "mechanics": [
       "Events",
       "Trick-taking",
@@ -7938,8 +7936,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 60,
-    "weight": 1.9741,
-    "rating": 7.76707,
+    "weight": 1.9742,
+    "rating": 7.76622,
     "bestPlayers": [
       3
     ],
@@ -7969,7 +7967,7 @@
     "maxPlayers": 4,
     "length": 80,
     "weight": 2.8129,
-    "rating": 7.65379,
+    "rating": 7.65399,
     "bestPlayers": [
       3,
       4
@@ -8000,7 +7998,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.9565,
-    "rating": 7.49005,
+    "rating": 7.48833,
     "bestPlayers": [
       3
     ],
@@ -8033,7 +8031,7 @@
     "maxPlayers": 10,
     "length": 30,
     "weight": 1.5913,
-    "rating": 7.18541,
+    "rating": 7.18533,
     "bestPlayers": [
       7
     ],
@@ -8069,7 +8067,7 @@
     "maxPlayers": 10,
     "length": 30,
     "weight": 1.7382,
-    "rating": 7.4903,
+    "rating": 7.49037,
     "bestPlayers": [
       1,
       2,
@@ -8111,7 +8109,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.4627,
-    "rating": 8.04332,
+    "rating": 8.04317,
     "bestPlayers": [
       3
     ],
@@ -8144,7 +8142,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 2.3111,
-    "rating": 6.66283,
+    "rating": 6.66323,
     "bestPlayers": [
       4,
       5
@@ -8152,7 +8150,7 @@
     "thumbnail": "https://cf.geekdo-images.com/pW9fJpYKB2SN-oY5HAibGA__small/img/Wq4Jhd4uAeWdxHL8cVECKREiFGE=/fit-in/200x150/filters:strip_icc()/pic9261801.png",
     "type": "comp",
     "description": "This Reiner Knizia game casts players in the roles of dukes who are trying to establish duchies along the banks of the Rhine River. Players hold a hand of cards that correspond to numbered plots on each river bank, and…",
-    "rank": 3214,
+    "rank": 3213,
     "mechanics": [
       "Area Majority / Influence",
       "Enclosure",
@@ -8179,7 +8177,7 @@
     "thumbnail": "https://cf.geekdo-images.com/N7lILiBx-N6YVOtApvLKHQ__small/img/9YGgeXnDpf6WL-PUtQn96y236ms=/fit-in/200x150/filters:strip_icc()/pic9020556.png",
     "type": "comp",
     "description": "Set during the Edo Period of Japan, play as a daimyo - or feudal lord - overseeing a personal province board that begins as a wild, old growth forest. Over the course of five rounds, each player will determine the path…",
-    "rank": 15380,
+    "rank": 15385,
     "mechanics": [
       "Auction / Bidding",
       "Simultaneous Action Selection",
@@ -8194,7 +8192,7 @@
     "maxPlayers": 5,
     "length": 120,
     "weight": 3.2999,
-    "rating": 7.7502,
+    "rating": 7.75021,
     "bestPlayers": [
       4,
       5
@@ -8238,14 +8236,14 @@
     "maxPlayers": 6,
     "length": 120,
     "weight": 2.0597,
-    "rating": 5.60977,
+    "rating": 5.60979,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__small/img/5cltSV60oVvjL3Ag_KTJbmTdU6w=/fit-in/200x150/filters:strip_icc()/pic4916782.jpg",
     "type": "comp",
     "description": "Possibly the most popular, mass market war game. The goal is conquest of the world. Each player's turn consists of: - gaining reinforcements through number of territories held, control of every territory on each…",
-    "rank": 30329,
+    "rank": 30337,
     "mechanics": [
       "Area Majority / Influence",
       "Area Movement",
@@ -8270,7 +8268,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.842,
-    "rating": 8.06854,
+    "rating": 8.06842,
     "bestPlayers": [
       4
     ],
@@ -8318,7 +8316,7 @@
     "thumbnail": "https://cf.geekdo-images.com/fniGG1iJgOdtIg0f_7sXSw__small/img/b7VsxDFt_WSKhle-ZJE0wvJEf00=/fit-in/200x150/filters:strip_icc()/pic9438455.png",
     "type": "comp",
     "description": "In Rosalie, players are aspiring rose breeders competing to build the most magnificent rose garden and earn renown as the finest nursery grower in town. Each player begins with a small plot of land and a dream. Over the…",
-    "rank": 18216,
+    "rank": 18221,
     "mechanics": [
       "Action Drafting",
       "Automatic Resource Growth",
@@ -8348,7 +8346,7 @@
     "maxPlayers": 5,
     "length": 40,
     "weight": 2.2353,
-    "rating": 7.06247,
+    "rating": 7.06291,
     "bestPlayers": [
       4
     ],
@@ -8384,7 +8382,7 @@
     "thumbnail": "https://cf.geekdo-images.com/ofXqaJPeQvDlXWUWhVUE7A__small/img/D4qB56UFVjdfZzQw-KvDvKtzFXg=/fit-in/200x150/filters:strip_icc()/pic9278538.jpg",
     "type": "comp",
     "description": "Rurik: Second Edition is an immersive euro-style realm-building game set during the turbulent succession crisis of 1015, bringing to life the culture, and political intrigue of Kyivan Rus’. Designed by Stanislav…",
-    "rank": 21325,
+    "rank": 21331,
     "mechanics": [
       "Area Majority / Influence",
       "Area Movement",
@@ -8410,7 +8408,7 @@
     "maxPlayers": 4,
     "length": 45,
     "weight": 1.9229,
-    "rating": 7.46905,
+    "rating": 7.46899,
     "bestPlayers": [
       2
     ],
@@ -8444,7 +8442,7 @@
     "maxPlayers": 2,
     "length": 20,
     "weight": 2.21,
-    "rating": 7.24365,
+    "rating": 7.24318,
     "bestPlayers": [
       2
     ],
@@ -8483,7 +8481,7 @@
     "thumbnail": "https://cf.geekdo-images.com/28jZrGyS6xja-rSxSs8zWQ__small/img/1R1wkCM8JNZDGNrfxE8bb9CQ6Bk=/fit-in/200x150/filters:strip_icc()/pic7414454.jpg",
     "type": "comp",
     "description": "In Sankor&eacute;: The Pride of Mansa Musa, a dynamic, interactive, mid-weight Eurogame, 1-4 players manage the prestigious University of Sankor&eacute; in 14th-century Timbuktu, tasked by the emperor Mansa Musa with…",
-    "rank": 1349,
+    "rank": 1350,
     "mechanics": [
       "Action Points",
       "Area Majority / Influence",
@@ -8513,7 +8511,7 @@
     "maxPlayers": 4,
     "length": 20,
     "weight": 1.7175,
-    "rating": 7.32765,
+    "rating": 7.32758,
     "bestPlayers": [
       2
     ],
@@ -8544,14 +8542,14 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 2.6034,
-    "rating": 7.03546,
+    "rating": 7.03497,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/QD6cUAqqtrrFfLmTCLAxaw__small/img/1ti9n-YcFhLb5w0X9FXqLfnIMzw=/fit-in/200x150/filters:strip_icc()/pic8456198.png",
     "type": "comp",
     "description": "Embark on a journey to the 14th century where the Kingdom of Sardegna is on the brink of greatness! Ambitious nobility vie for control, aiming to leave their mark as the most influential Sardenians of all. Command…",
-    "rank": 2233,
+    "rank": 2235,
     "mechanics": [
       "Action Retrieval",
       "Area Majority / Influence",
@@ -8569,15 +8567,15 @@
     "minPlayers": 2,
     "maxPlayers": 2,
     "length": 20,
-    "weight": 1.671,
-    "rating": 7.34969,
+    "weight": 1.6697,
+    "rating": 7.34981,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__small/img/97DW-2XWDrSSkgy3XnUJ7f7tLiQ=/fit-in/200x150/filters:strip_icc()/pic2932872.jpg",
     "type": "comp",
     "description": "In Schotten Totten, nine boundary stones lie between you and your opponent. In front of each, you build poker-like formations of three cards on a side. Whoever plays the higher-ranking formation wins the stone. And in a…",
-    "rank": 438,
+    "rank": 437,
     "mechanics": [
       "Card Play Conflict Resolution",
       "Hand Management",
@@ -8621,8 +8619,8 @@
     "minPlayers": 1,
     "maxPlayers": 5,
     "length": 115,
-    "weight": 3.452,
-    "rating": 8.09346,
+    "weight": 3.4519,
+    "rating": 8.0934,
     "bestPlayers": [
       4
     ],
@@ -8663,8 +8661,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 45,
-    "weight": 1.4926,
-    "rating": 7.50834,
+    "weight": 1.4945,
+    "rating": 7.50812,
     "bestPlayers": [
       2
     ],
@@ -8695,7 +8693,7 @@
     "maxPlayers": 4,
     "length": 75,
     "weight": 2.425,
-    "rating": 7.885,
+    "rating": 7.88483,
     "bestPlayers": [
       2,
       3,
@@ -8710,7 +8708,6 @@
       "Deduction",
       "End Game Bonuses",
       "Paper-and-Pencil",
-      "Rondel",
       "Solo / Solitaire Game",
       "Turn Order: Time Track"
     ],
@@ -8728,7 +8725,7 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 2.784,
-    "rating": 7.32999,
+    "rating": 7.32996,
     "bestPlayers": [
       2
     ],
@@ -8760,7 +8757,7 @@
     "maxPlayers": 10,
     "length": 45,
     "weight": 1.7332,
-    "rating": 7.48214,
+    "rating": 7.48212,
     "bestPlayers": [
       8,
       10
@@ -8795,7 +8792,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 1.9474,
-    "rating": 6.87015,
+    "rating": 6.86918,
     "bestPlayers": [
       4
     ],
@@ -8821,15 +8818,15 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.9387,
-    "rating": 8.00823,
+    "weight": 3.943,
+    "rating": 8.0077,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__small/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg",
     "type": "comp",
     "description": "A permanent base is being built in the Shackleton crater at the Moon's South Pole. You're leading one of the space agencies that are working together to expand their presence on the base, while at the same time the…",
-    "rank": 358,
+    "rank": 357,
     "mechanics": [
       "Area Majority / Influence",
       "Contracts",
@@ -8852,14 +8849,14 @@
     "maxPlayers": 4,
     "length": 30,
     "weight": 1.6667,
-    "rating": 7.20337,
+    "rating": 7.20641,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/wWBsf6pf9v-H7IW-l6VItA__small/img/AUAxG5IxkaP7k_p82bn_U_owwC0=/fit-in/200x150/filters:strip_icc()/pic9590834.jpg",
     "type": "comp",
     "description": "In Shards of Creation, harness the primal forces of Brandon Sanderson's Cosmere! This innovative trick-taking game is designed for players of all skill levels. Every Shard is an aspect of divinity: Autonomy,…",
-    "rank": 9339,
+    "rank": 9272,
     "mechanics": [
       "Set Collection",
       "Trick-taking",
@@ -8878,7 +8875,7 @@
     "maxPlayers": 9,
     "length": 180,
     "weight": 3.5523,
-    "rating": 7.75454,
+    "rating": 7.75442,
     "bestPlayers": [
       5,
       6
@@ -8922,7 +8919,7 @@
     "thumbnail": "https://cf.geekdo-images.com/HzpcSdPkYdYvujz137VspA__small/img/jJdPrhnhI_mQru2iRSuFPGdVAk0=/fit-in/200x150/filters:strip_icc()/pic9496662.jpg",
     "type": "comp",
     "description": "What's the size of a mermaid's fin? What's the size of a bowling pin? Let's find out! In Size Wise you estimate the sizes of objects, but there’s no right answer. You simply need to think like the other players to prove…",
-    "rank": 9971,
+    "rank": 9973,
     "mechanics": [
       "Team-Based Game"
     ],
@@ -8938,7 +8935,7 @@
     "maxPlayers": 6,
     "length": 45,
     "weight": 1.1166,
-    "rating": 7.1655,
+    "rating": 7.16518,
     "bestPlayers": [
       1,
       5,
@@ -8970,7 +8967,7 @@
     "maxPlayers": 8,
     "length": 30,
     "weight": 1.7318,
-    "rating": 7.52772,
+    "rating": 7.52758,
     "bestPlayers": [
       4,
       5,
@@ -8999,8 +8996,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 150,
-    "weight": 2.9141,
-    "rating": 8.61162,
+    "weight": 2.904,
+    "rating": 8.61115,
     "bestPlayers": [
       2,
       4
@@ -9036,7 +9033,7 @@
     "maxPlayers": 6,
     "length": 30,
     "weight": 1.1204,
-    "rating": 7.58912,
+    "rating": 7.58905,
     "bestPlayers": [
       3,
       4
@@ -9069,7 +9066,7 @@
     "thumbnail": "https://cf.geekdo-images.com/zV33y_kLzvOuGz1_r1DWNA__small/img/BDEzpnC1LDvDFqLIIbe5qAz1W4Q=/fit-in/200x150/filters:strip_icc()/pic8204421.jpg",
     "type": "comp",
     "description": "Slide Pursuit Game Race your four game pieces from Start around the board to your Home in this Pachisi type game. By turning over a card from the draw deck and following its instructions, players move their pieces…",
-    "rank": 31475,
+    "rank": 31484,
     "mechanics": [
       "Roll / Spin and Move",
       "Take That"
@@ -9086,7 +9083,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.1363,
-    "rating": 7.53935,
+    "rating": 7.53951,
     "bestPlayers": [
       3,
       4
@@ -9114,14 +9111,14 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.0455,
-    "rating": 7.36008,
+    "rating": 7.36069,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/vzv9pGQvw5qId3GAr3xPfQ__small/img/eYOzoOyy0JYaYDS3Eb-XY1bGrqk=/fit-in/200x150/filters:strip_icc()/pic6669791.png",
     "type": "comp",
     "description": "Space Station Phoenix is a worker-placement and resource management game set in one of Earth’s possible futures. The players are representatives of the Galactic Council, sent to Earth to build space stations to observe…",
-    "rank": 1853,
+    "rank": 1852,
     "mechanics": [
       "Action Retrieval",
       "End Game Bonuses",
@@ -9145,7 +9142,7 @@
     "maxPlayers": 4,
     "length": 30,
     "weight": 1.7737,
-    "rating": 7.42154,
+    "rating": 7.42145,
     "bestPlayers": [
       3
     ],
@@ -9173,7 +9170,7 @@
     "maxPlayers": 8,
     "length": 15,
     "weight": 1.2298,
-    "rating": 6.73175,
+    "rating": 6.73161,
     "bestPlayers": [
       6
     ],
@@ -9207,7 +9204,7 @@
     "maxPlayers": 2,
     "length": 20,
     "weight": 1.9112,
-    "rating": 7.54862,
+    "rating": 7.54833,
     "bestPlayers": [
       2
     ],
@@ -9242,7 +9239,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 2.1204,
-    "rating": 7.41504,
+    "rating": 7.41486,
     "bestPlayers": [
       4,
       5,
@@ -9276,14 +9273,14 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.2308,
-    "rating": 6.90758,
+    "rating": 6.90836,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/_oIGFfPMAa0gHWNy7kJp7g__small/img/sDjXtzwxUmWreaMwHw8ofJaCaKc=/fit-in/200x150/filters:strip_icc()/pic7618281.jpg",
     "type": "comp",
     "description": "Outcooperate the competition! Surfosaurus MAX's cards come in seven suits, with values from 01 to 12. The higher a card's value, the fewer victory points are on it. When it is your turn, you play a single hand card and…",
-    "rank": 3105,
+    "rank": 3104,
     "mechanics": [
       "Betting and Bluffing",
       "Set Collection"
@@ -9301,15 +9298,15 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 200,
-    "weight": 4.1826,
-    "rating": 8.17663,
+    "weight": 4.186,
+    "rating": 8.18059,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/qmCyTIgGhdSON0bMUk8qjQ__small/img/7NwXv2G1UPErGTvHHm-R6wdYsoY=/fit-in/200x150/filters:strip_icc()/pic8329173.jpg",
     "type": "comp",
     "description": "Welcome to “Sweet Lands”, the kingdom of delightful confections! The former king has succumbed to his gluttonous love for sweets, leaving behind a final decree. Summoned by this royal edict, you and your fellow players…",
-    "rank": 963,
+    "rank": 957,
     "mechanics": [
       "Hexagon Grid",
       "Solo / Solitaire Game",
@@ -9331,8 +9328,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.9265,
-    "rating": 7.23844,
+    "weight": 3.927,
+    "rating": 7.23832,
     "bestPlayers": [
       3,
       4,
@@ -9365,7 +9362,7 @@
     "maxPlayers": 10,
     "length": 20,
     "weight": 1.1988,
-    "rating": 6.32452,
+    "rating": 6.32462,
     "bestPlayers": [
       1,
       6,
@@ -9393,7 +9390,7 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.3158,
-    "rating": 6.654,
+    "rating": 6.65323,
     "bestPlayers": [
       4
     ],
@@ -9415,7 +9412,6 @@
     "genres": [
       "Abstract Strategy",
       "Card Game",
-      "Game System",
       "Puzzle",
       "Real-time"
     ]
@@ -9427,15 +9423,15 @@
     "minPlayers": 2,
     "maxPlayers": 2,
     "length": 15,
-    "weight": 2.1121,
-    "rating": 7.59687,
+    "weight": 2.1204,
+    "rating": 7.59664,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/sLSlzWRe8Ixnksqawkzb3Q__small/img/O9Kg90i8kSi8N2ndrOKXaTTrQXE=/fit-in/200x150/filters:strip_icc()/pic8805857.jpg",
     "type": "comp",
     "description": "Inspired by classic arcade-fighting games, Tag Team is an auto battler combined with a deck-building game. Make your team of two fighters from the twelve available — each with their own techniques and special moves —…",
-    "rank": 668,
+    "rank": 667,
     "mechanics": [
       "Action Queue",
       "Card Play Conflict Resolution",
@@ -9457,8 +9453,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 30,
-    "weight": 1.7557,
-    "rating": 7.72873,
+    "weight": 1.7576,
+    "rating": 7.7287,
     "bestPlayers": [
       3,
       4
@@ -9516,8 +9512,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 4.0679,
-    "rating": 7.66223,
+    "weight": 4.0678,
+    "rating": 7.66203,
     "bestPlayers": [
       3
     ],
@@ -9547,7 +9543,7 @@
     "maxPlayers": 12,
     "length": 30,
     "weight": 1.0577,
-    "rating": 7.72611,
+    "rating": 7.72591,
     "bestPlayers": [
       12,
       12
@@ -9555,7 +9551,7 @@
     "thumbnail": "https://cf.geekdo-images.com/v_BidaaTXux6j_UJQol6Jw__small/img/P-iB8B1LZoAVI4V0MHbl885PBK8=/fit-in/200x150/filters:strip_icc()/pic8918996.jpg",
     "type": "comp",
     "description": "Are you ready to party with a bigger group? With the all new Telestrations Party Pack, you can have a LOL, side-splitting time with up to 12 people! Prepare for more players, more laughs, and more unpredictable results!…",
-    "rank": 763,
+    "rank": 762,
     "mechanics": [
       "Drawing",
       "Line Drawing",
@@ -9575,7 +9571,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.0851,
-    "rating": 7.63979,
+    "rating": 7.63976,
     "bestPlayers": [
       2,
       3
@@ -9583,7 +9579,7 @@
     "thumbnail": "https://cf.geekdo-images.com/8L5T9-_xGX5lFF-VlU77lA__small/img/Ko_vq3IV2pLJpheMWpRfydTwNhk=/fit-in/200x150/filters:strip_icc()/pic7880987.jpg",
     "type": "comp",
     "description": "Tenby is one of the most beautiful towns in Wales. Wander our colourful streets, walk along our piers with some scrumptious fish and chips, and relax on our stunning beaches with a nice cold ice cream and a warm feeling…",
-    "rank": 1656,
+    "rank": 1654,
     "mechanics": [
       "Action Drafting",
       "Open Drafting",
@@ -9603,7 +9599,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.8707,
-    "rating": 7.11152,
+    "rating": 7.11188,
     "bestPlayers": [
       3,
       4,
@@ -9612,7 +9608,7 @@
     "thumbnail": "https://cf.geekdo-images.com/vtUlmpCE_ij4Us9hOPPcZw__small/img/N1F2Aeld8k0SuCgpgWlOaruXD4A=/fit-in/200x150/filters:strip_icc()/pic6896566.png",
     "type": "comp",
     "description": "Terra Nova is a simplified version of the strategy game Terra Mystica. In the game, up to four players each control one of ten factions, each with different abilities. Compete against one another to explore new…",
-    "rank": 1774,
+    "rank": 1773,
     "mechanics": [
       "Chaining",
       "Hexagon Grid",
@@ -9704,7 +9700,7 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 2.9301,
-    "rating": 7.63004,
+    "rating": 7.62999,
     "bestPlayers": [
       2,
       3
@@ -9744,7 +9740,7 @@
     "maxPlayers": 2,
     "length": 30,
     "weight": 2.3448,
-    "rating": 7.32662,
+    "rating": 7.32572,
     "bestPlayers": [
       2
     ],
@@ -9774,7 +9770,7 @@
     "maxPlayers": 8,
     "length": 15,
     "weight": 1.25,
-    "rating": 7.17659,
+    "rating": 7.17639,
     "bestPlayers": [
       4,
       5
@@ -9782,7 +9778,7 @@
     "thumbnail": "https://cf.geekdo-images.com/f05Ep10b3StPqbWLRKYC1A__small/img/416c8CvhMr81RMODledWUsJ74ic=/fit-in/200x150/filters:strip_icc()/pic8000153.jpg",
     "type": "comp",
     "description": "That's Not a Hat: Pop Culture features new items that you are sure to forget as you pass gifts around the table and try to remember who has what. Additionally, 30 special cards are included for increased interaction.",
-    "rank": 3574,
+    "rank": 3572,
     "mechanics": [
       "Memory"
     ],
@@ -9837,7 +9833,7 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.3438,
-    "rating": 7.06297,
+    "rating": 7.06313,
     "bestPlayers": [
       4
     ],
@@ -9862,7 +9858,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 2.1597,
-    "rating": 7.20092,
+    "rating": 7.20065,
     "bestPlayers": [
       3
     ],
@@ -9894,7 +9890,7 @@
     "maxPlayers": 6,
     "length": 15,
     "weight": 1.1011,
-    "rating": 6.21134,
+    "rating": 6.21172,
     "bestPlayers": [
       4,
       5,
@@ -9903,7 +9899,7 @@
     "thumbnail": "https://cf.geekdo-images.com/5ClVKrQcLkzRdBGiEfjevQ__small/img/FJa46kpICy-6AF4n7W-v9ICP_yo=/fit-in/200x150/filters:strip_icc()/pic7073068.jpg",
     "type": "comp",
     "description": "The world's first dodgeball card game. Collect cards. Play your hand. Throw things at your friends. Throw Throw Burrito is what you get when you cross a card game with dodgeball. Try to collect matching sets of cards…",
-    "rank": 3901,
+    "rank": 3900,
     "mechanics": [
       "Real-Time",
       "Set Collection",
@@ -9930,7 +9926,7 @@
     "thumbnail": "https://cf.geekdo-images.com/UEH2fN9xIOUOpHzpGrdzbw__small/img/4x3qQhuZkhD4UzmfJ3qbERzpUCw=/fit-in/200x150/filters:strip_icc()/pic6936303.jpg",
     "type": "comp",
     "description": "Flags of all colors dance in the wind as Navirians converge to Trawl for the long-awaited Banner Festival. Generate the most profits for your trading house by selling goods, befriending the right suppliers, and making…",
-    "rank": 4078,
+    "rank": 4079,
     "mechanics": [
       "Area Majority / Influence",
       "Hand Management",
@@ -9949,7 +9945,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.9239,
-    "rating": 7.41642,
+    "rating": 7.41676,
     "bestPlayers": [
       3
     ],
@@ -9981,7 +9977,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.4742,
-    "rating": 7.70527,
+    "rating": 7.70529,
     "bestPlayers": [
       4
     ],
@@ -10018,7 +10014,7 @@
     "maxPlayers": 5,
     "length": 45,
     "weight": 2.1528,
-    "rating": 7.31636,
+    "rating": 7.31634,
     "bestPlayers": [
       3
     ],
@@ -10055,7 +10051,7 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2.0622,
-    "rating": 7.16992,
+    "rating": 7.16975,
     "bestPlayers": [
       3
     ],
@@ -10091,7 +10087,7 @@
     "maxPlayers": 8,
     "length": 15,
     "weight": 1,
-    "rating": 7.11949,
+    "rating": 7.11917,
     "bestPlayers": [
       6,
       7,
@@ -10100,7 +10096,7 @@
     "thumbnail": "https://cf.geekdo-images.com/M9nicHhMX3YT9SrytCDvng__small/img/WTXuwBzv5qR1SVOacNg063dLJQo=/fit-in/200x150/filters:strip_icc()/pic9329638.jpg",
     "type": "teams",
     "description": "The alien invasion has begun, and humans are in a rush to escape Earth before it’s too late! The only problem is that aliens are disguised as humans! Our only hope is to weed out the aliens via the power of … multiple…",
-    "rank": 10879,
+    "rank": 10794,
     "mechanics": [
       "Hidden Roles",
       "Negotiation",
@@ -10147,14 +10143,14 @@
     "maxPlayers": 2,
     "length": 15,
     "weight": 1.4921,
-    "rating": 7.83672,
+    "rating": 7.83583,
     "bestPlayers": [
       2
     ],
     "thumbnail": "https://cf.geekdo-images.com/GuhpuTKFteZEIhPTFvEpJw__small/img/2Gft8rEmdaQW1YJX5DyPX0uWyoM=/fit-in/200x150/filters:strip_icc()/pic8589750.jpg",
     "type": "comp",
     "description": "On land, on sea, in clouds, and even in space, battles are breaking out between toys. Your troops need your tactical talent to lead them to victory. Your mission? Be the first to reach the enemy headquarters or control…",
-    "rank": 262,
+    "rank": 261,
     "mechanics": [
       "Area Majority / Influence",
       "Multiple Maps",
@@ -10172,8 +10168,8 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.6248,
-    "rating": 7.74107,
+    "weight": 3.6241,
+    "rating": 7.74104,
     "bestPlayers": [
       4,
       4
@@ -10201,14 +10197,14 @@
     "maxPlayers": 5,
     "length": 40,
     "weight": 1.5,
-    "rating": 7.40804,
+    "rating": 7.41835,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/JU9XtSxfKO-9bCmgscRh7g__small/img/zEq_IBoVZBgqC-XeM_Uf_Gjyfgs=/fit-in/200x150/filters:strip_icc()/pic9264698.jpg",
     "type": "comp",
     "description": "They thought we were crazy, but they’re the fools, I tell you. With the temporal transistors finally operational, we have the power to travel time - to past, present, future, and beyond. Oh, but the fuel must be managed…",
-    "rank": 9336,
+    "rank": 9242,
     "mechanics": [
       "Score-and-Reset Game",
       "Trick-taking"
@@ -10259,7 +10255,7 @@
     "maxPlayers": 6,
     "length": 15,
     "weight": 1.0735,
-    "rating": 7.38384,
+    "rating": 7.38312,
     "bestPlayers": [
       4,
       5
@@ -10267,7 +10263,7 @@
     "thumbnail": "https://cf.geekdo-images.com/d9F0ZDqcN3J7J92WckyraQ__small/img/8d663Cj-RQy8pA8gZOcO80xYI5I=/fit-in/200x150/filters:strip_icc()/pic7605785.jpg",
     "type": "comp",
     "description": "nana, which was later reprinted as Trio, is a card game in which players are looking for three of a kind. The deck consists of 36 cards, numbered 1-12 three times. Players receive some cards in hand, which they are…",
-    "rank": 482,
+    "rank": 484,
     "mechanics": [
       "Matching",
       "Memory",
@@ -10298,7 +10294,7 @@
     "thumbnail": "https://cf.geekdo-images.com/mIbh2CK5zEYzJk5S0UomGg__small/img/GSrC-qK70ssasb4pSl35uJh45Hw=/fit-in/200x150/filters:strip_icc()/pic8898514.jpg",
     "type": "comp",
     "description": "In the 19th century, alchemy was regarded as an occult science—a blend of modern discoveries and ancient wisdom. Though the golden age of alchemy has long passed, the dream of bending the laws of nature and creating the…",
-    "rank": 5409,
+    "rank": 5410,
     "mechanics": [
       "Action Points",
       "Contracts",
@@ -10324,7 +10320,7 @@
     "maxPlayers": 8,
     "length": 20,
     "weight": 1.2172,
-    "rating": 6.66754,
+    "rating": 6.66753,
     "bestPlayers": [
       4,
       6
@@ -10332,7 +10328,7 @@
     "thumbnail": "https://cf.geekdo-images.com/2V3d4ryhxkS3RoPtDrvpUw__small/img/NWgNhoxUIF7Lmj1apRkZQhFL6NU=/fit-in/200x150/filters:strip_icc()/pic875761.jpg",
     "type": "comp",
     "description": "Tsuro is a beautifully simple game of laying a tile before your own token to continue its path on each turn. The goal is to keep your token on the board longer than anyone else's, but as the board fills up this becomes…",
-    "rank": 1267,
+    "rank": 1268,
     "mechanics": [
       "Hand Management",
       "Network and Route Building",
@@ -10351,14 +10347,14 @@
     "maxPlayers": 4,
     "length": 20,
     "weight": 2.527,
-    "rating": 7.5921,
+    "rating": 7.5916,
     "bestPlayers": [
       1
     ],
     "thumbnail": "https://cf.geekdo-images.com/un5yundwtC6q1U9gWTY8Yw__small/img/I4QR01ZS6TTIHgW3UpdOYvePRxQ=/fit-in/200x150/filters:strip_icc()/pic6883492.png",
     "type": "comp",
     "description": "\"Codes are a puzzle. A game, just like any other game.\" - Alan Turing in The Imitation Game. Turing Machine is a fascinating and competitive deduction game. It offers a unique experience of questioning a proto-computer…",
-    "rank": 327,
+    "rank": 329,
     "mechanics": [
       "Deduction",
       "Paper-and-Pencil",
@@ -10378,7 +10374,7 @@
     "maxPlayers": 30,
     "length": 20,
     "weight": 1.4845,
-    "rating": 6.98072,
+    "rating": 6.98042,
     "bestPlayers": [
       10,
       14,
@@ -10391,7 +10387,7 @@
     "thumbnail": "https://cf.geekdo-images.com/jmf0M01DsReKLByori6OGg__small/img/L5WTzC1_QyuIddhi248RG5hYVvc=/fit-in/200x150/filters:strip_icc()/pic2335221.png",
     "type": "teams",
     "description": "In Two Rooms and a Boom – a social deduction/hidden role party game for six or more players – there are two teams: the Red Team and the Blue Team. The Blue Team has a President. The Red Team has a Bomber. Players are…",
-    "rank": 1236,
+    "rank": 1237,
     "mechanics": [
       "Acting",
       "Elapsed Real Time Ending",
@@ -10427,7 +10423,7 @@
     "thumbnail": "https://cf.geekdo-images.com/9xuEX32soPb7mAcPVG2M3w__small/img/AXnCa4lZTb2s4rMQ_B_eMO0Dp9Y=/fit-in/200x150/filters:strip_icc()/pic7125824.png",
     "type": "comp",
     "description": "Post independence from colonial rule, India had been left in shambles. It was the combined efforts of bureaucrats, politicians, and industrialists who worked together (and sometimes not so much together) to start a new…",
-    "rank": 5084,
+    "rank": 5085,
     "mechanics": [
       "Action / Event",
       "Auction / Bidding",
@@ -10453,7 +10449,7 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.2518,
-    "rating": 8.3566,
+    "rating": 8.3568,
     "bestPlayers": [
       2,
       3
@@ -10493,7 +10489,7 @@
     "thumbnail": "https://cf.geekdo-images.com/PoIvN70fNYdwgeaap0CKqw__small/img/Xl_EuD2T09pr31MuKlfvPzvaspU=/fit-in/200x150/filters:strip_icc()/pic1849390.jpg",
     "type": "teams",
     "description": "Your quiet little 16th century village has suddenly become infested with some very unfriendly werewolves...can you and the other villagers find them before they devour everyone? Ultimate Werewolf: Ultimate Edition is…",
-    "rank": 1695,
+    "rank": 1697,
     "mechanics": [
       "Hidden Roles",
       "Player Elimination",
@@ -10521,7 +10517,7 @@
     "maxPlayers": 2,
     "length": 60,
     "weight": 2.3486,
-    "rating": 7.74011,
+    "rating": 7.73964,
     "bestPlayers": [
       2,
       2
@@ -10529,7 +10525,7 @@
     "thumbnail": "https://cf.geekdo-images.com/Zp0x_lURkRrHcLyyYv2aSw__small/img/d9luLahO6n0itCfqpjpLexz24OE=/fit-in/200x150/filters:strip_icc()/pic5536142.jpg",
     "type": "comp",
     "description": "The Undaunted series continues with this two-player deck-building game of tactical combat, pitting the raiders of Britain's Long Range Desert Group against Italian forces in the North African Theater of World War II.…",
-    "rank": 589,
+    "rank": 590,
     "mechanics": [
       "Command Cards",
       "Deck, Bag, and Pool Building",
@@ -10552,8 +10548,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 150,
-    "weight": 3.5928,
-    "rating": 8.03906,
+    "weight": 3.5921,
+    "rating": 8.0393,
     "bestPlayers": [
       2
     ],
@@ -10587,7 +10583,7 @@
     "maxPlayers": 6,
     "length": 60,
     "weight": 2.25,
-    "rating": 7.56438,
+    "rating": 7.56493,
     "bestPlayers": [
       2
     ],
@@ -10654,7 +10650,7 @@
     "thumbnail": "https://cf.geekdo-images.com/bBhkr53AapZR_gSkt-lf5Q__small/img/E2_eIsJAyhVTVW8OSNzpr4XUodo=/fit-in/200x150/filters:strip_icc()/pic8439856.jpg",
     "type": "comp",
     "description": "In this bluffing game, players have hidden information about which casinos are corrupt. Take turns playing money tiles (two 2’s, two 4’s, one 5, one six, one seven) into the different casinos. When scoring a corrupt…",
-    "rank": 6741,
+    "rank": 6743,
     "mechanics": [
       "Auction: Multiple Lot",
       "Deduction",
@@ -10673,14 +10669,14 @@
     "maxPlayers": 6,
     "length": 20,
     "weight": 1.0444,
-    "rating": 6.6874,
+    "rating": 6.68726,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/EekcSlWY5dqasbMMm12aPg__small/img/CF_4dYqQYtKSt1y75E5zeTXqRdQ=/fit-in/200x150/filters:strip_icc()/pic8172467.jpg",
     "type": "comp",
     "description": "Grow the vegetables, raise the sale price, and make a fortune! Vegetable Stock, which debuted as Small Farmer, is a simple card game about vegetable economics. Each round, reveal one more card than the number of players…",
-    "rank": 2875,
+    "rank": 2876,
     "mechanics": [
       "Commodity Speculation",
       "Open Drafting"
@@ -10699,7 +10695,7 @@
     "maxPlayers": 5,
     "length": 60,
     "weight": 2.0681,
-    "rating": 7.2565,
+    "rating": 7.25634,
     "bestPlayers": [
       2,
       3
@@ -10731,7 +10727,7 @@
     "maxPlayers": 6,
     "length": 90,
     "weight": 2.9018,
-    "rating": 7.95344,
+    "rating": 7.95343,
     "bestPlayers": [
       3,
       4
@@ -10763,14 +10759,14 @@
     "maxPlayers": 4,
     "length": 30,
     "weight": 1.4,
-    "rating": 7.12796,
+    "rating": 7.12893,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/a4fv53JLtFlpo7XjDsItPQ__small/img/urtarfT1n-8LsDXd22wkGLrkc0o=/fit-in/200x150/filters:strip_icc()/pic8896480.jpg",
     "type": "comp",
     "description": "In Vivo, each round starts by revealing a harmony type (Solo, Duet, Trio, Quartet). The harmony determines how many suits must be played in the trick—not being able to is considered playing “off-harmony,” making that…",
-    "rank": 3544,
+    "rank": 3538,
     "mechanics": [
       "Trick-taking"
     ],
@@ -10787,8 +10783,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 240,
-    "weight": 4.6246,
-    "rating": 8.49825,
+    "weight": 4.6254,
+    "rating": 8.49814,
     "bestPlayers": [
       1,
       3,
@@ -10824,14 +10820,14 @@
     "maxPlayers": 4,
     "length": 120,
     "weight": 3.8734,
-    "rating": 7.29237,
+    "rating": 7.2908,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/uSVXNr6eWn3vh2bQfVVLwA__small/img/T0VOw22vLDgvTs3l0-xrggwXMx4=/fit-in/200x150/filters:strip_icc()/pic8739904.jpg",
     "type": "comp",
     "description": "The Voynich manuscript, named after the bookseller who discovered it in 1912, is an enigma that has resisted human curiosity for over 600 years. Is it an otherworldly botanical treatise? A secret code of alchemists? Or…",
-    "rank": 3557,
+    "rank": 3558,
     "mechanics": [
       "Contracts",
       "Deck, Bag, and Pool Building",
@@ -10850,7 +10846,7 @@
     "maxPlayers": 4,
     "length": 30,
     "weight": 2.3153,
-    "rating": 7.81758,
+    "rating": 7.81718,
     "bestPlayers": [
       2,
       4
@@ -10884,7 +10880,7 @@
     "maxPlayers": 12,
     "length": 45,
     "weight": 1.1044,
-    "rating": 7.18372,
+    "rating": 7.18385,
     "bestPlayers": [
       1,
       6,
@@ -10893,7 +10889,7 @@
     "thumbnail": "https://cf.geekdo-images.com/z4fbPdmJg_5yphJEvql4ZA__small/img/bxLuHVLF-Y06jWRSKA-tuQ3YYcE=/fit-in/200x150/filters:strip_icc()/pic4552862.png",
     "type": "teams",
     "description": "Wavelength is a social guessing game in which two teams compete to read each other's minds. Teams take turns rotating a dial to where they think a hidden bullseye is located on a spectrum. One of the players on your…",
-    "rank": 542,
+    "rank": 543,
     "mechanics": [
       "Race",
       "Targeted Clues",
@@ -10947,7 +10943,7 @@
     "maxPlayers": 4,
     "length": 30,
     "weight": 1.3014,
-    "rating": 6.68594,
+    "rating": 6.68563,
     "bestPlayers": [
       3,
       4
@@ -10977,7 +10973,7 @@
     "maxPlayers": 100,
     "length": 25,
     "weight": 1.8427,
-    "rating": 7.50218,
+    "rating": 7.502,
     "bestPlayers": [
       3,
       4
@@ -11008,7 +11004,7 @@
     "maxPlayers": 10,
     "length": 10,
     "weight": 1.1474,
-    "rating": 7.09369,
+    "rating": 7.09396,
     "bestPlayers": [
       6,
       7
@@ -11016,7 +11012,7 @@
     "thumbnail": "https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__small/img/gSGfC0ZMYbOXukqfdBBuxULmyJU=/fit-in/200x150/filters:strip_icc()/pic4415135.jpg",
     "type": "teams",
     "description": "In Werewords, players guess a secret word by asking \"yes\" or \"no\" questions. Figure out the magic word before time is up, and you win! However, one of the players is secretly a werewolf who is not only working against…",
-    "rank": 1023,
+    "rank": 1021,
     "mechanics": [
       "Hidden Roles",
       "Roles with Asymmetric Information",
@@ -11048,7 +11044,7 @@
     "thumbnail": "https://cf.geekdo-images.com/iDGVc4JaZ3Q8JBR7J4A9Ng__small/img/On_jQCoP-KeC-GWHvufNwYy7nUA=/fit-in/200x150/filters:strip_icc()/pic8615764.png",
     "type": "comp",
     "description": "You are a whale rider. For generations, your people have known and lived with the ice whales and together you've bought and traded at the busy ports along the fabled Ice Coast. You are honored to be the latest in your…",
-    "rank": 2705,
+    "rank": 2706,
     "mechanics": [
       "Contracts",
       "Hand Management",
@@ -11067,14 +11063,14 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.0654,
-    "rating": 7.50087,
+    "rating": 7.50067,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/BkPVVNEJxnF2ouque0ov8A__small/img/eLl5tVSfUn2f95-87zcJz8rxiFk=/fit-in/200x150/filters:strip_icc()/pic5275651.jpg",
     "type": "comp",
     "description": "Whistle Stop designer Scott Caputo has teamed up with Luke Laurie (Manhattan Project: Energy Empire) to create a new worker-placement strategy title. Whistle Mountain gives a nod to Whistle Stop, but in this standalone…",
-    "rank": 853,
+    "rank": 854,
     "mechanics": [
       "Tile Placement",
       "Variable Player Powers",
@@ -11091,8 +11087,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 80,
-    "weight": 3.0743,
-    "rating": 7.97452,
+    "weight": 3.0742,
+    "rating": 7.97477,
     "bestPlayers": [
       3
     ],
@@ -11139,7 +11135,7 @@
     "thumbnail": "https://cf.geekdo-images.com/nk1cLm7wug4kGGiceqL4sQ__small/img/49ooTElxGaIdsOlSK7Ec6z3irJA=/fit-in/200x150/filters:strip_icc()/pic9496683.jpg",
     "type": "comp",
     "description": "The Wild Magic lives beyond our walls, untamed and ever-flowing. There, it gathers into sacred elemental pools protected by the Guardians. Channel this magic as it ebbs and flows from the elemental pools, through you,…",
-    "rank": 21043,
+    "rank": 21051,
     "mechanics": [
       "Hand Management",
       "Melding and Splaying",
@@ -11188,7 +11184,7 @@
     "maxPlayers": 6,
     "length": 30,
     "weight": 1.1613,
-    "rating": 7.45483,
+    "rating": 7.45401,
     "bestPlayers": [
       4,
       5
@@ -11215,15 +11211,15 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 90,
-    "weight": 3.1029,
-    "rating": 7.68835,
+    "weight": 3.108,
+    "rating": 7.68843,
     "bestPlayers": [
       3
     ],
     "thumbnail": "https://cf.geekdo-images.com/Z3mBHQuawFfI3ZTQ8Z64CA__small/img/Oo7FfbdgRd9GXJxb7-CMiU9jD9w=/fit-in/200x150/filters:strip_icc()/pic7796391.jpg",
     "type": "comp",
     "description": "It’s the late 19th century, and more than 9000 windmills dot the landscape of the Netherlands, some of them purpose-built to dry the lowlands, called polders. In the polders between these windmills are fields filled…",
-    "rank": 708,
+    "rank": 707,
     "mechanics": [
       "End Game Bonuses",
       "Market",
@@ -11274,7 +11270,7 @@
     "maxPlayers": 5,
     "length": 125,
     "weight": 3.0476,
-    "rating": 8.02703,
+    "rating": 8.02697,
     "bestPlayers": [
       4,
       5
@@ -11304,8 +11300,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 80,
-    "weight": 3.0291,
-    "rating": 8.02691,
+    "weight": 3.029,
+    "rating": 8.02701,
     "bestPlayers": [
       2,
       3
@@ -11313,7 +11309,7 @@
     "thumbnail": "https://cf.geekdo-images.com/3ue_3La0WYopTSDER3shUA__small/img/4SreytxNoZL435EkTriKB08W5W0=/fit-in/200x150/filters:strip_icc()/pic8389014.jpg",
     "type": "comp",
     "description": "Welcome to the world full of fantastic creatures! You are an admirer, a creature enthusiast who will join the journey of forming the world’s leading creature reserve. To win Wondrous Creatures, you must create the most…",
-    "rank": 185,
+    "rank": 184,
     "mechanics": [
       "End Game Bonuses",
       "Hand Management",
@@ -11336,15 +11332,15 @@
     "minPlayers": 2,
     "maxPlayers": 4,
     "length": 180,
-    "weight": 3.8125,
-    "rating": 8.14093,
+    "weight": 3.814,
+    "rating": 8.14083,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/sE0K_85H5PmIBa2RWvmTwA__small/img/hAqsFOmwfQGE1eoDgH0qePwigvo=/fit-in/200x150/filters:strip_icc()/pic9162146.jpg",
     "type": "comp",
     "description": "The year is 2010, and the world is drastically changing. While the once-unrivaled influence of the United States is beginning to wane, other major powers are eagerly stepping onto the stage, ready to claim their piece…",
-    "rank": 1026,
+    "rank": 1018,
     "mechanics": [
       "Area Majority / Influence",
       "Automatic Resource Growth",
@@ -11375,8 +11371,8 @@
     "minPlayers": 1,
     "maxPlayers": 5,
     "length": 90,
-    "weight": 2.8299,
-    "rating": 7.9386,
+    "weight": 2.8281,
+    "rating": 7.93851,
     "bestPlayers": [
       3
     ],
@@ -11407,7 +11403,7 @@
     "maxPlayers": 10,
     "length": 30,
     "weight": 1.1743,
-    "rating": 5.56759,
+    "rating": 5.56777,
     "bestPlayers": [
       3,
       4
@@ -11415,7 +11411,7 @@
     "thumbnail": "https://cf.geekdo-images.com/dp-pJkUemCjhrwi9QItrPA__small/img/jzdzVAjd75yiZkIoJ4JsindSmCs=/fit-in/200x150/filters:strip_icc()/pic378237.jpg",
     "type": "comp",
     "description": "Yahtzee is a classic dice game played with 5 dice. Each player's turn consists of rolling the dice up to 3 times in hope of making 1 of 13 categories. Examples of categories are 3 of a kind, 4 of a kind, straight, full…",
-    "rank": 25384,
+    "rank": 25346,
     "mechanics": [
       "Dice Rolling",
       "Paper-and-Pencil",
@@ -11424,7 +11420,6 @@
       "Set Collection"
     ],
     "genres": [
-      "Children's Game",
       "Comic Book / Strip",
       "Dice",
       "Movies / TV / Radio theme",
@@ -11469,7 +11464,7 @@
     "maxPlayers": 2,
     "length": 60,
     "weight": 2.6217,
-    "rating": 7.70002,
+    "rating": 7.69994,
     "bestPlayers": [
       2
     ],
@@ -11494,7 +11489,7 @@
     "maxPlayers": 4,
     "length": 180,
     "weight": 4.25,
-    "rating": 8.19815,
+    "rating": 8.18448,
     "bestPlayers": [
       3,
       4
@@ -11523,7 +11518,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 3.2749,
-    "rating": 7.78446,
+    "rating": 7.78441,
     "bestPlayers": [
       3
     ],
@@ -11553,8 +11548,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 3.8349,
-    "rating": 7.94869,
+    "weight": 3.8273,
+    "rating": 7.94809,
     "bestPlayers": [
       3
     ],
@@ -11579,14 +11574,14 @@
     "maxPlayers": 7,
     "length": 40,
     "weight": 2.0901,
-    "rating": 7.42791,
+    "rating": 7.42744,
     "bestPlayers": [
       5
     ],
     "thumbnail": "https://cf.geekdo-images.com/Kl3NjtNKpuJNPjdBQtdsow__small/img/Or2YcwIFnCP84aWJ_63HMwRJDis=/fit-in/200x150/filters:strip_icc()/pic6988937.jpg",
     "type": "comp",
     "description": "What if the animals were the ones who ran the zoo? …Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally,…",
-    "rank": 762,
+    "rank": 763,
     "mechanics": [
       "Bribery",
       "Hidden Victory Points",
@@ -11619,7 +11614,7 @@
     "thumbnail": "https://cf.geekdo-images.com/ca2PfXoCzSTCfx7EQzcWyw__small/img/fW9JHiAKoDDVuoZInNQ87h-JC9A=/fit-in/200x150/filters:strip_icc()/pic4944148.jpg",
     "type": "comp",
     "description": "Cat Sudoku is a roll-and-write sudoku game for 1 to 6 players. In the game, players take turns to roll four dice and all players simultaneously write the numbers on their sudoku puzzle papers. Similar to traditional…",
-    "rank": 15547,
+    "rank": 15554,
     "mechanics": [
       "Dice Rolling",
       "Paper-and-Pencil",
@@ -11648,7 +11643,7 @@
     "thumbnail": "https://cf.geekdo-images.com/5bFdfIuP0vynKpiim9mQ0g__small/img/Okl5VQ6f539N3ExE8KdyIBsUq4A=/fit-in/200x150/filters:strip_icc()/pic9208306.png",
     "type": "comp",
     "description": "Create the most charming town at the foot of Mt Yotei, also known as Ezo Fuji, located in Hokkaido Japan ︎ Expand your land with limited manpower, win bids using potatoes, and develop your town. ︎ There are multiple…",
-    "rank": 13020,
+    "rank": 13021,
     "mechanics": [
       "Auction / Bidding",
       "Worker Placement"
@@ -11665,14 +11660,14 @@
     "maxPlayers": 4,
     "length": 75,
     "weight": 1.9524,
-    "rating": 7.07011,
+    "rating": 7.06735,
     "bestPlayers": [
       4
     ],
     "thumbnail": "https://cf.geekdo-images.com/S39N_AX6rXD9f3XWFkGhMA__small/img/ZLWW_LNvxIcYbp3rebiFFOAqMuw=/fit-in/200x150/filters:strip_icc()/pic8923324.jpg",
     "type": "comp",
     "description": "You are the leader of a tribe whose people explore the fabled twelve rivers flowing from a mystical lake high in the mountains. Your goal? To find the magical coloured pearls that roll down the rivers in the current.…",
-    "rank": 4195,
+    "rank": 4194,
     "mechanics": [
       "End Game Bonuses",
       "Hand Management",
@@ -11725,7 +11720,7 @@
     "maxPlayers": 4,
     "length": 60,
     "weight": 2.125,
-    "rating": 7.6241,
+    "rating": 7.62621,
     "bestPlayers": [
       3,
       4
@@ -11733,7 +11728,7 @@
     "thumbnail": "https://cf.geekdo-images.com/KY2AUIXtG-7ueuqlcJzX1w__small/img/MgG01q0MDBaoPHk2ep4OVn4wK5Y=/fit-in/200x150/filters:strip_icc()/pic9309401.jpg",
     "type": "comp",
     "description": "Eureka! Gold flows like an endless sea in the rich hills and forests of California, and countless would-be prospectors have flocked to the lush landscape to stake their claim and make their fortune. Gather your pickaxe…",
-    "rank": 4033,
+    "rank": 4008,
     "mechanics": [
       "Chaining",
       "Commodity Speculation",
@@ -11755,7 +11750,7 @@
     "maxPlayers": 4,
     "length": 90,
     "weight": 2.254,
-    "rating": 7.69713,
+    "rating": 7.6971,
     "bestPlayers": [
       2,
       4
@@ -11859,8 +11854,8 @@
     "minPlayers": 1,
     "maxPlayers": 4,
     "length": 120,
-    "weight": 4.0756,
-    "rating": 8.33833,
+    "weight": 4.0758,
+    "rating": 8.33836,
     "bestPlayers": [
       2
     ],
