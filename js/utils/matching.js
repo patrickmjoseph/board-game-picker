@@ -18,6 +18,7 @@ import {
 } from '../constants.js';
 import { appState, getFilterSelection } from '../state.js';
 import { getDifficultyBucket } from './difficulty.js';
+import { getGameTypes } from './game-types.js';
 import { findLengthBucketById } from './filter-labels.js';
 
 // ==================== Per-dimension checks ====================
@@ -101,11 +102,8 @@ function playStyleDimensionPasses(game) {
     return null;
   }
 
-  if (!game.type) {
-    return false;
-  }
-
-  return selectedPlayStyles.includes(game.type);
+  // A game can have several play styles (e.g. both co-op and competitive); any one may match.
+  return getGameTypes(game).some((gameType) => selectedPlayStyles.includes(gameType));
 }
 
 const DIMENSION_CHECK_BY_DIMENSION = Object.freeze({

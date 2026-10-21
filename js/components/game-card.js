@@ -22,6 +22,7 @@ import {
 } from '../constants.js';
 import { appState } from '../state.js';
 import { getWeightWord } from '../utils/difficulty.js';
+import { getGameTypes } from '../utils/game-types.js';
 import { dimensionPasses, getMatchPercentage, isBestPlayerMatch } from '../utils/matching.js';
 import { createBadgeHtml } from './badge.js';
 import { createMatchBarHtml } from './match-bar.js';
@@ -68,11 +69,13 @@ function getDetailBadgeItems(game) {
     });
   }
 
-  if (game.type) {
+  const gameTypes = getGameTypes(game);
+
+  if (gameTypes.length) {
     detailBadgeItems.push({
       dimension: FILTER_DIMENSION.COOP,
       modifier: BADGE_MODIFIER.TYPE,
-      text: PLAY_STYLE_BADGE_LABELS[game.type],
+      text: gameTypes.map((gameType) => PLAY_STYLE_BADGE_LABELS[gameType]).join(' + '),
     });
   }
 

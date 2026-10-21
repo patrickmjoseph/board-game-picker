@@ -11,7 +11,8 @@
 //      rating, weight/complexity, playing time, player counts, thumbnail,
 //      and description from BGG's "thing" endpoint.
 //
-// Fields NOT auto-overwritten for games that already existed: id, type.
+// Fields NOT auto-overwritten for games that already existed: id, type (a play
+// style, or a list of them for games that play more than one way).
 // For brand-new games, type is best-effort guessed (see detectType below)
 // since BGG's collection/thing data doesn't have a direct "comp/coop/teams"
 // field the cafe uses; re-check it after a sync adds something new.
